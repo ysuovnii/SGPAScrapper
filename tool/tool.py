@@ -21,12 +21,14 @@ student_fail = []
 # 24 i 3 0 81  
 # {batch} {branch} {sem} {section} {roll}
 
-batch = 24 
-batch_LE = 25
-branch_list = ['c', 'i', 'b', 't', 'e', 'm', 'v'] 
-sem = 3 
+batch = input("Enter batch (e.g., 24): ")
+batch_LE = int(batch) + 1
+sem = int(input("Enter semester (e.g., 3): "))
+
 roll_range = [(sem*1000+1, sem*1000+90), (sem*1000+101, sem*1000+190)]
 roll_range_LE = [(sem*1000+90, sem*1000+99), (sem*1000+190, sem*1000+199)]
+
+branch_list = ['c', 'i', 'b', 't', 'e', 'm', 'v'] 
 branch_map = {
     'c': 'Computer Science',
     'i': 'Information Technology',
@@ -149,7 +151,7 @@ def rank_students():
     return all_students
 
 def write_csv(all_students):
-    with open(f"{batch}_Sem_{sem}_Result.csv", "w", newline="") as f:
+    with open(f"New_Ver_{batch}_Sem_{sem}_Result.csv", "w", newline="") as f:
         fieldnames = ["rank", "branch", "name", "roll", "cg", "verdict"]
         writer = csv.DictWriter(f, fieldnames=fieldnames)
 
