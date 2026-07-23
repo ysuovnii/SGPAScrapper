@@ -1,0 +1,787 @@
+rank,branch,name,roll,cg,verdict
+1,Electronics and Instrumentation,AMAN VISHWAKARMA,25E2009,9.82,Pass
+2,Electronics and Telecommunication,DEEPAL GUPTA,25T2027,9.77,Pass
+2,Civil,KHUSHI PARMAR,25V2030,9.77,Pass
+2,Civil,YASHRAJ KOURAV,25V2077,9.77,Pass
+5,Computer Science Business Studies,PALAK MAHESHWARI,25B2039,9.73,Pass
+6,Computer Science Business Studies,NAINA CHOURASIA,25B2033,9.68,Pass
+6,Electronics and Telecommunication,ANUSHREE RAO,25T2120,9.68,Pass
+8,Civil,HARDIK DHANWANI,25V2021,9.64,Pass
+9,Computer Science,ARSHITA SINGHWANE,25C2121,9.59,Pass
+9,Information Technology,BHOOMI AHUJA,25I2121,9.59,Pass
+11,Computer Science,LAKSHYA RAHEJA,25C2038,9.5,Pass
+11,Electronics and Instrumentation,VEDANT PARMAR,25E2073,9.5,Pass
+13,Computer Science,ANSHIKA BHAND,25C2011,9.45,Pass
+13,Computer Science,NAITIK KHARE,25C2150,9.45,Pass
+13,Computer Science,SAISHA DESHPANDE,25C2167,9.45,Pass
+16,Computer Science,VANSH MAHESHWARI,25C2075,9.41,Pass
+16,Information Technology,KAJAL PATEL,25I2006,9.41,Pass
+16,Civil,SANJAY THAKUR,25V2058,9.41,Pass
+19,Computer Science,HARSH BANKEY,25C2134,9.36,Pass
+19,Computer Science,PARTH RAWAT,25C2153,9.36,Pass
+19,Computer Science Business Studies,KUHUK JAIN,25B2132,9.36,Pass
+22,Information Technology,MANVENDRA PATEL,25I2036,9.32,Pass
+22,Computer Science Business Studies,KRISHNA KIRIT SINGH KUSHWAH,25B2027,9.32,Pass
+22,Electronics and Instrumentation,ANJALI SINGH,25E2011,9.32,Pass
+25,Computer Science,RISHI VARMA,25C2056,9.27,Pass
+25,Information Technology,SHREYANSH THAKUR,25I2063,9.27,Pass
+25,Computer Science Business Studies,SUMIT SINGH,25B2062,9.27,Pass
+25,Electronics and Instrumentation,BHOOMIKA SHARMA,25E2023,9.27,Pass
+29,Information Technology,NIDHISH MALVIYA,25I2043,9.23,Pass
+29,Information Technology,AYUSH PANWAR,25I2118,9.23,Pass
+29,Computer Science Business Studies,AADI JAIN,25B2003,9.23,Pass
+29,Computer Science Business Studies,KARTAVYA JAIN,25B2026,9.23,Pass
+29,Computer Science Business Studies,NEERAV TRIVEDI,25B2034,9.23,Pass
+29,Electronics and Telecommunication,RONAK SHARMA,25T2061,9.23,Pass
+35,Computer Science,SHREYANSH TIWARI,25C2171,9.18,Pass
+35,Electronics and Telecommunication,PARTH JAGWANI,25T2151,9.18,Pass
+37,Computer Science,DEVAGYA RATHORE,25C2025,9.14,Pass
+37,Computer Science,ANAHITA MODI,25C2111,9.14,Pass
+37,Computer Science,SOMIL RAGHUWANSHI,25C2175,9.14,Pass
+37,Computer Science Business Studies,LEESHA GEHLOT,25B2028,9.14,Pass
+37,Electronics and Telecommunication,TISYA BHATIA,25T2178,9.14,Pass
+42,Computer Science,SHARAD PATIDAR,25C2060,9.09,Pass
+42,Computer Science,SIYA GUPTA,25C2067,9.09,Pass
+42,Information Technology,JAISHREE SINGHAL,25I2128,9.09,Pass
+42,Computer Science Business Studies,MIHIKA AGRAWAL,25B2031,9.09,Pass
+42,Electronics and Telecommunication,DAKSH BAID,25T2025,9.09,Pass
+42,Electronics and Telecommunication,VEDANT JAIN,25T2078,9.09,Pass
+42,Electronics and Telecommunication,DIVYANSH KANOJIYA,25T2134,9.09,Pass
+42,Electronics and Instrumentation,ASHWIKA GUPTA,25E2017,9.09,Pass
+50,Information Technology,ANAND PATEL,25I2111,9.05,Pass
+50,Electronics and Telecommunication,ABHAY SINGH BAGHEL,25T2001,9.05,Pass
+52,Computer Science,ANANYA TIWARI,25C2112,9.0,Pass
+52,Computer Science,RAJKUMAR MEWADA,25C2164,9.0,Pass
+52,Information Technology,AISHWARYA MANDLECHA,25I2002,9.0,Pass
+52,Electronics and Telecommunication,NEHA PATEL,25T2049,9.0,Pass
+52,Electronics and Telecommunication,SHARMISHTHA NAYAK,25T2069,9.0,Pass
+52,Civil,ANUJ KIRAR,25V2009,9.0,Pass
+58,Computer Science,SHRIDHAR PANDEY,25C2066,8.95,Pass
+58,Computer Science,SMRITI TIGGA,25C2068,8.95,Pass
+58,Computer Science,PRATHMESH KUMAR SINGH,25C2159,8.95,Pass
+58,Computer Science Business Studies,REETI JAIN,25B2050,8.95,Pass
+58,Electronics and Telecommunication,NITIN PATEL,25T2051,8.95,Pass
+58,Electronics and Instrumentation,DIVYANSHI DAHARE,25E2025,8.95,Pass
+58,Civil,AKANKSHA VERMA,25V2004,8.95,Pass
+65,Computer Science Business Studies,CHARVI JAIN,25B2017,8.91,Pass
+65,Computer Science Business Studies,NEHA SONI,25B2035,8.91,Pass
+65,Computer Science Business Studies,NITYA KHANDELWAL,25B2036,8.91,Pass
+65,Computer Science Business Studies,SRISHTI SOLANKI,25B2157,8.91,Pass
+65,Electronics and Telecommunication,BHUMIKA NAMDEV,25T2022,8.91,Pass
+65,Electronics and Telecommunication,PRANJALI PANDEY,25T2153,8.91,Pass
+71,Computer Science,ATHARVA PANDEY,25C2017,8.86,Pass
+71,Computer Science,SHRESTH SHARMA,25C2065,8.86,Pass
+71,Information Technology,PRANJAL PRAJAPAT,25I2146,8.86,Pass
+71,Computer Science Business Studies,SIDRA NOOR KHAN,25B2060,8.86,Pass
+71,Civil,DIVYANSHU KARMA,25V2019,8.86,Pass
+76,Information Technology,SHRUSHTI BHADAURIA,25I2064,8.82,Pass
+76,Information Technology,SHUBH JAIN,25I2168,8.82,Pass
+78,Computer Science,AYUSH PATIDAR,25C2126,8.77,Pass
+78,Computer Science,HEER ADWANI,25C2137,8.77,Pass
+78,Computer Science,TANISHQ RAO,25C2177,8.77,Pass
+78,Computer Science Business Studies,ARYAN MEENA,25B2011,8.77,Pass
+78,Computer Science Business Studies,SURYANSH TEEPA,25B2161,8.77,Pass
+78,Computer Science Business Studies,VEDIKA GANGRADE,25B2168,8.77,Pass
+78,Electronics and Telecommunication,KRISH PATEL,25T2037,8.77,Pass
+78,Electronics and Telecommunication,RASHI SHETH,25T2159,8.77,Pass
+78,Electronics and Instrumentation,NAITIK JAIN,25E2043,8.77,Pass
+78,Civil,KAMAL KUMAR AHIRWAR,25V2026,8.77,Pass
+88,Computer Science,DEVANSHU SONI,25C2026,8.73,Pass
+88,Computer Science,NAITIK BORIYA,25C2045,8.73,Pass
+88,Information Technology,SHIV KUMAR CHOURASIYA,25I2061,8.73,Pass
+88,Computer Science Business Studies,KANAK TIWARI,25B2075,8.73,Pass
+88,Electronics and Instrumentation,ANJALI PARAUHA,25E2010,8.73,Pass
+93,Computer Science,MEHUL AITHEKAR,25C2043,8.68,Pass
+93,Computer Science,SARTHAK KSHIRSAGAR,25C2058,8.68,Pass
+93,Computer Science,ANKUSH NEMA,25C2116,8.68,Pass
+93,Computer Science,MAHI RATHORE,25C2148,8.68,Pass
+93,Information Technology,RADHIKA GUPTA,25I2150,8.68,Pass
+93,Computer Science Business Studies,VINIT PATIDAR,25B2064,8.68,Pass
+99,Computer Science,AMI JAIN,25C2110,8.64,Pass
+99,Computer Science Business Studies,ANGEL KALRA,25B2111,8.64,Pass
+99,Electronics and Telecommunication,CHANCHAL JAIN,25T2024,8.64,Pass
+102,Computer Science,ADITYA JAIN,25C2006,8.59,Pass
+102,Computer Science,ADITYA CHOURASIA,25C2106,8.59,Pass
+102,Computer Science,ANSHIKA CHAURASIYA,25C2117,8.59,Pass
+102,Information Technology,ANSH TIWARI,25I2008,8.59,Pass
+102,Computer Science Business Studies,ANAY GATTANI,25B2009,8.59,Pass
+102,Computer Science Business Studies,AADISH NAGAR,25B2102,8.59,Pass
+102,Computer Science Business Studies,ABHINYA BHATTACHARYA,25B2103,8.59,Pass
+102,Computer Science Business Studies,HITESHI LUHADIYA,25B2126,8.59,Pass
+102,Electronics and Telecommunication,SAMEER PANDEY,25T2064,8.59,Pass
+102,Electronics and Telecommunication,ANVI AGRAWAL,25T2103,8.59,Pass
+102,Electronics and Telecommunication,AJEET KUSHWAHA,25T2111,8.59,Pass
+102,Civil,SAMVIDA ROSE,25V2056,8.59,Pass
+114,Computer Science,MAHI SHAH,25C2040,8.55,Pass
+114,Computer Science,SEJAL LADDHA,25C2059,8.55,Pass
+114,Computer Science,SUHANI PATIDAR,25C2070,8.55,Pass
+114,Information Technology,ANKESH DHAKAR,25I2007,8.55,Pass
+114,Information Technology,SAMARTH TAYAL,25I2160,8.55,Pass
+114,Computer Science Business Studies,HARSHIT PATIDAR,25B2023,8.55,Pass
+114,Electronics and Telecommunication,TANISHQ PANDEY,25T2073,8.55,Pass
+114,Civil,PREM GAUR,25V2047,8.55,Pass
+122,Information Technology,DHRUV SINGH,25I2019,8.5,Pass
+122,Computer Science Business Studies,MANSI MITTAL,25B2029,8.5,Pass
+122,Computer Science Business Studies,PRAKRATI KUSHWAH,25B2143,8.5,Pass
+122,Electronics and Telecommunication,AKSHAT GUPTA,25T2113,8.5,Pass
+122,Electronics and Instrumentation,SHREYAS CHOUDHARY,25E2063,8.5,Pass
+122,Civil,PRADEEP KUMAR SINGH,25V2042,8.5,Pass
+128,Information Technology,AYUSH MAKWANA,25I2117,8.45,Pass
+128,Information Technology,NIKHIL SHARMA,25I2139,8.45,Pass
+128,Electronics and Telecommunication,VIKAS PRAJAPATI,25T2079,8.45,Pass
+128,Electronics and Instrumentation,VANSH KEWATE,25E2070,8.45,Pass
+132,Computer Science,VRANDA MUNDRA,25C2077,8.41,Pass
+133,Computer Science,RUDRA BORANA,25C2057,8.36,Pass
+133,Information Technology,RASHI KHATRI,25I2053,8.36,Pass
+133,Information Technology,ANUGRAH SHARMA,25I2112,8.36,Pass
+133,Computer Science Business Studies,RAM SHARMA,25B2048,8.36,Pass
+133,Electronics and Telecommunication,RISHI YADAV,25T2058,8.36,Pass
+133,Electronics and Telecommunication,SHUBHANSHU JAIN,25T2071,8.36,Pass
+133,Civil,ANUJ KHANDELWAR,25V2008,8.36,Pass
+140,Computer Science,MAHI JAGWANI,25C2080,8.32,Pass
+140,Computer Science,DEVENDRA GOUR,25C2130,8.32,Pass
+140,Information Technology,ANSHIKA TRIVEDI,25I2009,8.32,Pass
+140,Information Technology,PALAK JAIN,25I2142,8.32,Pass
+140,Computer Science Business Studies,PALAK DUBEY,25B2038,8.32,Pass
+140,Electronics and Telecommunication,NITYA NEEMA,25T2052,8.32,Pass
+140,Electronics and Instrumentation,PEEYUSH LONARE,25E2048,8.32,Pass
+140,Civil,AAYUSHI HARSOLA,25V2001,8.32,Pass
+148,Computer Science,RINKY KHANNA,25C2055,8.27,Pass
+148,Computer Science,APEKSHA RATHORE,25C2119,8.27,Pass
+148,Computer Science,TEJASH SINGH SISODIYA,25C2169,8.27,Pass
+148,Information Technology,LAVESH PATIDAR,25I2034,8.27,Pass
+148,Information Technology,OM NIRANJAN,25I2046,8.27,Pass
+148,Information Technology,YASHRAJ BOLGE,25I2078,8.27,Pass
+148,Computer Science Business Studies,AISHWARYA AGRAWAL,25B2107,8.27,Pass
+148,Computer Science Business Studies,SUMIT SHEJOLE,25B2158,8.27,Pass
+148,Electronics and Telecommunication,DISHA DAGA,25T2133,8.27,Pass
+148,Electronics and Telecommunication,HETVI RATHORE,25T2137,8.27,Pass
+148,Electronics and Instrumentation,ABHINAV CHAURASIYA,25E2005,8.27,Pass
+148,Civil,BHAVYA GUPTA,25V2012,8.27,Pass
+148,Civil,MUSKAN RAGHUWANSHI,25V2051,8.27,Pass
+161,Computer Science,ABHISHEK SOLANKI,25C2004,8.23,Pass
+161,Computer Science,ARPIT MISHRA,25C2014,8.23,Pass
+161,Computer Science,PRATIKSHA CHAUHAN,25C2049,8.23,Pass
+161,Computer Science,PRIYANSH VERMA,25C2051,8.23,Pass
+161,Information Technology,KUMKUM PARMAR,25I2033,8.23,Pass
+161,Information Technology,PRACHI GUPTA,25I2050,8.23,Pass
+161,Computer Science Business Studies,SNEHA RAGHUWANSHI,25B2154,8.23,Pass
+161,Electronics and Telecommunication,BHAWANA PATIDAR,25T2126,8.23,Pass
+161,Electronics and Instrumentation,ATHARVA MISHRA,25E2018,8.23,Pass
+170,Computer Science,SHLOK GUPTA,25C2064,8.18,Pass
+170,Computer Science,RISHABH CHOUDHARY,25C2165,8.18,Pass
+170,Information Technology,AVNI PANDEY,25I2011,8.18,Pass
+170,Information Technology,SANSKRITI SAXENA,25I2060,8.18,Pass
+170,Information Technology,PUSHYA GUPTA,25I2149,8.18,Pass
+170,Information Technology,RISHABH TIWARI,25I2155,8.18,Pass
+170,Computer Science Business Studies,AADESH JAIN,25B2101,8.18,Pass
+170,Computer Science Business Studies,AVANI JAIN,25B2117,8.18,Pass
+170,Electronics and Telecommunication,MANUDEV TIWARI,25T2045,8.18,Pass
+170,Electronics and Instrumentation,KRISH PRATAP SINGH,25E2037,8.18,Pass
+170,Civil,PRATIBHA CHOUHAN,25V2046,8.18,Pass
+181,Computer Science,AAGAM JAIN,25C2001,8.14,Pass
+181,Computer Science,SHIVAM BAIS,25C2062,8.14,Pass
+181,Computer Science,AKSHAT JAIN,25C2109,8.14,Pass
+181,Information Technology,VIKAS KELWA,25I2177,8.14,Pass
+181,Computer Science Business Studies,PRAGYA SRIVASTAVA,25B2142,8.14,Pass
+181,Electronics and Telecommunication,PARV KAPOOR,25T2054,8.14,Pass
+181,Electronics and Telecommunication,YAMINI PANCHOLI,25T2080,8.14,Pass
+181,Civil,AKSHAT SAHU,25V2005,8.14,Pass
+181,Civil,KISHAN GAUR,25V2032,8.14,Pass
+190,Computer Science,GARVIKA VYAS,25C2027,8.05,Pass
+190,Computer Science,SHUBHENDRA NATH BARTARIA,25C2173,8.05,Pass
+190,Information Technology,DHRUVI JAIN,25I2124,8.05,Pass
+190,Information Technology,PRAGYA JAIN,25I2145,8.05,Pass
+190,Information Technology,SALONI MARSKOLE,25I2159,8.05,Pass
+190,Electronics and Instrumentation,AKSHIT PRATAP SINGH RAJAWAT,25E2008,8.05,Pass
+190,Electronics and Instrumentation,SHARVAREE KALELE,25E2059,8.05,Pass
+197,Computer Science,SHIV RAGHUVANSHI,25C2154,8.0,Pass
+197,Information Technology,PRIYANKA NIHALANI,25I2052,8.0,Pass
+197,Information Technology,AASHI VAIDYA,25I2103,8.0,Pass
+197,Information Technology,LAKSHYA ROHITAS,25I2132,8.0,Pass
+197,Computer Science Business Studies,ASTHA CHOUDHARY,25B2013,8.0,Pass
+197,Computer Science Business Studies,ANURAG KUMAR SINGH,25B2113,8.0,Pass
+197,Computer Science Business Studies,SHUBHI SARAF,25B2153,8.0,Pass
+197,Electronics and Telecommunication,CHITRANSH TRIPATHI,25T2129,8.0,Pass
+197,Electronics and Telecommunication,ISHAN SHAHI,25T2160,8.0,Pass
+197,Electronics and Instrumentation,JATIN PAL,25E2029,8.0,Pass
+197,Electronics and Instrumentation,VARDHNAM YADAV,25E2071,8.0,Pass
+208,Computer Science,ISHIKA JOSHI,25C2035,7.95,Pass
+208,Information Technology,NITIN RATHORE,25I2141,7.95,Pass
+208,Information Technology,SHIVAM PUROHIT,25I2166,7.95,Pass
+208,Computer Science Business Studies,PRIYAL SONI,25B2145,7.95,Pass
+208,Electronics and Telecommunication,ANKUSH SINGH,25T2010,7.95,Pass
+208,Electronics and Telecommunication,LALIT KHANDELWAL,25T2042,7.95,Pass
+208,Electronics and Telecommunication,SUMIT SAHU,25T2072,7.95,Pass
+208,Electronics and Telecommunication,SUHANI HEDAU,25T2169,7.95,Pass
+208,Civil,PRIYAL DAMOR,25V2049,7.95,Pass
+208,Civil,YATHARTH DABI,25V2078,7.95,Pass
+218,Electronics and Telecommunication,AMRIT SHARMA,25T2007,7.91,Pass
+218,Electronics and Telecommunication,ROHIT MEENA,25T2060,7.91,Pass
+218,Electronics and Instrumentation,NIPUN CHOURASIYA,25E2045,7.91,Pass
+221,Computer Science,PRIYANSHI JAIN,25C2052,7.86,Pass
+221,Computer Science,TANMAY UPADHYAY,25C2174,7.86,Pass
+221,Information Technology,SHUBHAM SINGHAL,25I2066,7.86,Pass
+221,Information Technology,ROHIT THAKUR,25I2157,7.86,Pass
+221,Electronics and Telecommunication,ANEET JAISWAL,25T2009,7.86,Pass
+221,Electronics and Telecommunication,BHAVANSH RATHORE,25T2021,7.86,Pass
+221,Electronics and Telecommunication,KAREENA BATHAM,25T2140,7.86,Pass
+221,Electronics and Telecommunication,LAKSHYA GOYAL,25T2142,7.86,Pass
+221,Electronics and Telecommunication,TANVEER KHAN,25T2170,7.86,Pass
+230,Computer Science Business Studies,KRISHNA PISEY,25B2131,7.82,Pass
+230,Electronics and Telecommunication,KULDEEP CHANDEL,25T2011,7.82,Pass
+230,Electronics and Telecommunication,KAVY KUMAR VAISHYA,25T2036,7.82,Pass
+230,Electronics and Telecommunication,TARUNIKA JAJORIYA,25T2074,7.82,Pass
+230,Electronics and Telecommunication,SABHYATA IYER,25T2162,7.82,Pass
+230,Civil,RASHI AHELLEYA,25V2052,7.82,Pass
+236,Computer Science,KARTAVYA KUMAR KURMI,25C2142,7.77,Pass
+236,Information Technology,NAITRI SONI,25I2041,7.77,Pass
+236,Computer Science Business Studies,PRINCE KUMAR CHATURVEDI,25B2144,7.77,Pass
+236,Electronics and Telecommunication,HIMANSHU MEENA,25T2034,7.77,Pass
+236,Electronics and Telecommunication,KABIR YADAV,25T2146,7.77,Pass
+236,Electronics and Instrumentation,AACHMAN CHOUDHARY,25E2001,7.77,Pass
+236,Electronics and Instrumentation,AARUSH PAROHA,25E2003,7.77,Pass
+236,Electronics and Instrumentation,PRASHANT CHOURASIYA,25E2051,7.77,Pass
+244,Computer Science,ABHIJEET PATIDAR,25C2002,7.73,Pass
+244,Computer Science,AYUSH MUKATI,25C2124,7.73,Pass
+244,Computer Science,PARAMJEET SINGH MONGA,25C2152,7.73,Pass
+244,Computer Science,PRANAV SINGH KUSHWAH,25C2157,7.73,Pass
+244,Computer Science,YASH TOMAR,25C2180,7.73,Pass
+244,Information Technology,JAYESH PATIDAR,25I2026,7.73,Pass
+244,Information Technology,MOHIT PANTHI,25I2037,7.73,Pass
+244,Information Technology,ABHISHEK RAJPUT,25I2104,7.73,Pass
+244,Computer Science Business Studies,AVISH JAIN,25B2016,7.73,Pass
+244,Computer Science Business Studies,ZAKI KHAN,25B2172,7.73,Pass
+244,Electronics and Telecommunication,NIKHIL JOSHI,25T2147,7.73,Pass
+244,Electronics and Telecommunication,SHAILENDRA AHIRWAR,25T2165,7.73,Pass
+244,Electronics and Instrumentation,RIHANSHU KATRE,25E2053,7.73,Pass
+244,Electronics and Instrumentation,SAKSHI THAKUR,25E2057,7.73,Pass
+258,Computer Science,ASHISH RAGHUWANSHI,25C2015,7.68,Pass
+258,Information Technology,SWARALI KOGE,25I2173,7.68,Pass
+258,Computer Science Business Studies,PRIYANSHI AGRAWAL,25B2146,7.68,Pass
+258,Computer Science Business Studies,SOUMYA CHANDEL,25B2155,7.68,Pass
+258,Electronics and Telecommunication,ANUJ TIBDEWAL,25T2013,7.68,Pass
+263,Information Technology,AJITESH MEENA,25I2004,7.64,Pass
+263,Information Technology,DEVANSHU JAIN,25I2018,7.64,Pass
+263,Information Technology,NIRMAL RATHORE,25I2045,7.64,Pass
+263,Electronics and Telecommunication,TWINKLE ASUDANI,25T2076,7.64,Pass
+263,Electronics and Telecommunication,AADISH BABEL,25T2101,7.64,Pass
+263,Electronics and Telecommunication,ABHISHEK PANDEY,25T2104,7.64,Pass
+263,Electronics and Telecommunication,MEDHAVI MAHESHWARI,25T2143,7.64,Pass
+263,Electronics and Telecommunication,VED PRATAP SINGH,25T2171,7.64,Pass
+263,Electronics and Instrumentation,RITISHA NARNOLIA,25E2054,7.64,Pass
+263,Civil,MAHIMA SURYAVANSHI,25V2034,7.64,Pass
+273,Computer Science,RAAGIB ANSARI,25C2054,7.59,Pass
+273,Computer Science,ABHISHEK SHARMA,25C2104,7.59,Pass
+273,Computer Science,PREM MALAKAR,25C2160,7.59,Pass
+273,Information Technology,VEDANT GUPTA,25I2175,7.59,Pass
+273,Electronics and Telecommunication,PRUTHA PATHAK,25T2056,7.59,Pass
+273,Electronics and Telecommunication,AAKASH KUMAR BHOR,25T2102,7.59,Pass
+273,Electronics and Telecommunication,ALOK KUMAR JAISWAL,25T2116,7.59,Pass
+273,Electronics and Telecommunication,NISHA MALWIYA,25T2148,7.59,Pass
+273,Electronics and Instrumentation,ANUBHUTI LAVANIA,25E2014,7.59,Pass
+282,Computer Science,HARSHIT IVNE,25C2031,7.55,Pass
+282,Computer Science,KHUSHI AHIRWAR,25C2143,7.55,Pass
+282,Computer Science,RAGHAVRAJ SARAF,25C2162,7.55,Pass
+282,Computer Science Business Studies,SHARREN RAM,25B2057,7.55,Pass
+282,Computer Science Business Studies,AVNISH AGRAWAL,25B2118,7.55,Pass
+282,Computer Science Business Studies,JAYANT JODHWANI,25B2174,7.55,Pass
+282,Electronics and Telecommunication,ARPIT JAIN,25T2122,7.55,Pass
+289,Computer Science,GOURI AGRAWAL,25C2133,7.5,Pass
+289,Information Technology,KANHA RAGHUWANSHI,25I2028,7.5,Pass
+289,Information Technology,SARTHAK JAIN,25I2163,7.5,Pass
+289,Computer Science Business Studies,MUDIT PUROHIT,25B2068,7.5,Pass
+289,Electronics and Telecommunication,DRISHTI CHOUBE,25T2031,7.5,Pass
+289,Electronics and Telecommunication,NAITIK SAHU,25T2047,7.5,Pass
+289,Electronics and Telecommunication,NITIN SOLANKI,25T2150,7.5,Pass
+289,Civil,KHUSHI SHARMA,25V2031,7.5,Pass
+297,Computer Science,YASH GAYKWAD,25C2078,7.45,Pass
+297,Computer Science,ATHARV JAIN,25C2122,7.45,Pass
+297,Computer Science,PALAK JAIN,25C2151,7.45,Pass
+297,Information Technology,SNEHA WASKEL,25I2068,7.45,Pass
+297,Computer Science Business Studies,MANAS NAGARCH,25B2135,7.45,Pass
+302,Computer Science,MANDRAI SANJANA RAMKHILAVAN,25C2041,7.41,Pass
+302,Computer Science,TUSHAR GUPTA,25C2074,7.41,Pass
+302,Information Technology,NATANSH BIYANI,25I2137,7.41,Pass
+302,Information Technology,SUDHANSHU CHIMANIYA,25I2171,7.41,Pass
+302,Computer Science Business Studies,MITANSH JAIN,25B2032,7.41,Pass
+302,Computer Science Business Studies,AAYUSH TUTEJA,25B2074,7.41,Pass
+302,Electronics and Telecommunication,SHIVANSH SHARMA,25T2070,7.41,Pass
+302,Electronics and Telecommunication,PRATIK MARKAM,25T2154,7.41,Pass
+310,Computer Science,ABHISHEK YADAV,25C2105,7.36,Pass
+310,Information Technology,HARSH SAHU,25I2022,7.36,Pass
+310,Information Technology,SOUMYA BORANA,25I2069,7.36,Pass
+310,Information Technology,BHAGYA ASATI,25I2119,7.36,Pass
+310,Computer Science Business Studies,PIYUSH SALVE,25B2042,7.36,Pass
+310,Electronics and Telecommunication,SMRATI SAHU,25T2065,7.36,Pass
+310,Electronics and Telecommunication,NAMAN SHARMA,25T2145,7.36,Pass
+317,Computer Science Business Studies,ADITYA GUPTA,25B2105,7.32,Pass
+317,Electronics and Telecommunication,ARPIT KUMAR GUPTA,25T2016,7.32,Pass
+317,Electronics and Telecommunication,KAPIL BAGDE,25T2035,7.32,Pass
+317,Electronics and Instrumentation,MANASHVI KHAMKAR,25E2040,7.32,Pass
+317,Electronics and Instrumentation,RAGHAV MISHRA,25E2052,7.32,Pass
+322,Computer Science,HEMANT NAGAR,25C2181,7.27,Pass
+322,Information Technology,ABHAY CHAURASIYA,25I2013,7.27,Pass
+322,Computer Science Business Studies,REVA NIMGAONKAR,25B2051,7.27,Pass
+322,Electronics and Telecommunication,SHARAD RAGHUWANSHI,25T2068,7.27,Pass
+322,Electronics and Telecommunication,ARPIT BHATT,25T2121,7.27,Pass
+322,Electronics and Telecommunication,BISHESH SARKAR,25T2127,7.27,Pass
+328,Computer Science,CHETAN DESHMUKH,25C2022,7.23,Pass
+328,Information Technology,KRISH MANI TRIPATHI,25I2031,7.23,Pass
+328,Computer Science Business Studies,DEVYANSH AKKAL,25B2018,7.23,Pass
+328,Computer Science Business Studies,RISHIKA VERMA,25B2148,7.23,Pass
+328,Electronics and Telecommunication,RAKSHIT PRAJAPAT,25T2057,7.23,Pass
+328,Electronics and Telecommunication,VIKASH PATIDAR,25T2172,7.23,Pass
+328,Civil,DEVANSH SONI,25V2016,7.23,Pass
+335,Computer Science,VEDIKA WADGAONKAR,25C2076,7.18,Pass
+335,Computer Science Business Studies,AADEESH JAIN,25B2001,7.18,Pass
+335,Electronics and Telecommunication,ABHIJEET SOLANKI,25T2002,7.18,Pass
+335,Electronics and Telecommunication,PRAKHAR BANDI,25T2152,7.18,Pass
+335,Electronics and Telecommunication,ROHAN GOYAL,25T2161,7.18,Pass
+335,Civil,AMAN CHANDEL,25V2006,7.18,Pass
+341,Information Technology,ASMI DUBEY,25I2010,7.14,Pass
+341,Information Technology,HRIDAY JAIN,25I2024,7.14,Pass
+341,Information Technology,STUTI SAHU,25I2071,7.14,Pass
+341,Information Technology,AARIZ IQBAL,25I2101,7.14,Pass
+341,Computer Science Business Studies,TEJASWINI TIWARI,25B2176,7.14,Pass
+341,Electronics and Telecommunication,ARNAV AGRAWAL,25T2015,7.14,Pass
+341,Civil,PRACHI REWER,25V2041,7.14,Pass
+341,Civil,SHREYANSH SHARMA,25V2062,7.14,Pass
+349,Computer Science,BHANOO PRATAP,25C2021,7.09,Pass
+349,Information Technology,HARIOM TALE,25I2020,7.09,Pass
+349,Information Technology,PRATIBHA PATIDAR,25I2147,7.09,Pass
+352,Computer Science,SANSKRITI GUPTA,25C2010,7.05,Pass
+352,Computer Science,AYUSH MALVIYA,25C2020,7.05,Pass
+352,Computer Science,DAKSHIKA BAGHEL,25C2128,7.05,Pass
+352,Information Technology,SURAJ BHAWSAR,25I2073,7.05,Pass
+352,Information Technology,SAANVI MISHRA,25I2158,7.05,Pass
+352,Information Technology,YUVRAJ JARHOLIYA,25I2180,7.05,Pass
+352,Computer Science Business Studies,ANUJ NEEKHRA,25B2010,7.05,Pass
+352,Computer Science Business Studies,VANSHITA KALYANE,25B2167,7.05,Pass
+352,Electronics and Instrumentation,TANMAY JAIN,25E2065,7.05,Pass
+361,Information Technology,BHAVISHYA PARSAI,25I2015,7.0,Pass
+361,Information Technology,ABHISHEK UPADHYAY,25I2105,7.0,Pass
+361,Computer Science Business Studies,RACHIYATA PATEL,25B2046,7.0,Pass
+361,Electronics and Telecommunication,ANSHUL SHILPKAR,25T2012,7.0,Pass
+365,Computer Science,SHIV MANGAL DIXIT,25C2061,6.95,Pass
+365,Information Technology,PALAK JATAV,25I2047,6.95,Pass
+365,Electronics and Telecommunication,DHRUV SAXENA,25T2029,6.95,Pass
+365,Electronics and Telecommunication,KUSHAL AGRAWAL,25T2041,6.95,Pass
+365,Electronics and Telecommunication,SANIDHYA JAISWAL,25T2075,6.95,Pass
+365,Electronics and Telecommunication,VAIBHAV PRAJAPATI,25T2077,6.95,Pass
+365,Electronics and Telecommunication,ANUJ PATEL,25T2118,6.95,Pass
+365,Electronics and Instrumentation,ANSHIKA JAIN,25E2012,6.95,Pass
+365,Electronics and Instrumentation,YASH TIWARI,25E2078,6.95,Pass
+365,Civil,ANKIT TYAGI,25V2007,6.95,Pass
+375,Computer Science,BHINI JAIN,25C2127,6.91,Pass
+375,Information Technology,VAIBHAVI SARASWAT,25I2077,6.91,Pass
+375,Computer Science Business Studies,TANISHQ HARDIYA,25B2063,6.91,Pass
+375,Computer Science Business Studies,VISHAKHA BHAWSAR,25B2065,6.91,Pass
+375,Computer Science Business Studies,BHUMIKA RATHORE,25B2121,6.91,Pass
+375,Computer Science Business Studies,YASH SHARMA,25B2169,6.91,Pass
+375,Electronics and Telecommunication,BALJEE CHATURVEDI,25T2020,6.91,Pass
+375,Electronics and Telecommunication,ANULOMA WANKHEDE,25T2119,6.91,Pass
+375,Civil,SHUBH DUBEY,25V2063,6.91,Pass
+384,Computer Science,HARISH JAYPALE,25C2030,6.86,Pass
+384,Electronics and Telecommunication,EKTA BARE,25T2032,6.86,Pass
+384,Electronics and Telecommunication,KANISHK MANGROLIYA,25T2139,6.86,Pass
+384,Electronics and Instrumentation,KASHISH ERAPACHE,25E2035,6.86,Pass
+384,Electronics and Instrumentation,NAMAN KUMAR SAKET,25E2044,6.86,Pass
+389,Information Technology,HARSHIKA SANTOSH PATIDAR,25I2126,6.82,Pass
+389,Information Technology,MUSKAN LODHI,25I2136,6.82,Pass
+389,Information Technology,SHUBHRIKA TIWARI,25I2169,6.82,Pass
+389,Information Technology,SIDDHARTH BELWANSHI,25I2170,6.82,Pass
+389,Computer Science Business Studies,PARI SOLANKI,25B2069,6.82,Pass
+389,Electronics and Telecommunication,NIKITA DODWE,25T2050,6.82,Pass
+389,Electronics and Telecommunication,SAKSHAM BAGRI,25T2063,6.82,Pass
+396,Computer Science,JAYESH CHOUHAN,25C2008,6.77,Pass
+396,Computer Science,PRASUN MASANIYA,25C2158,6.77,Pass
+396,Computer Science,VIDIT PARMAR,25C2179,6.77,Pass
+396,Information Technology,ARYAN SAHU,25I2115,6.77,Pass
+396,Electronics and Telecommunication,SAHIL YEDE,25T2163,6.77,Pass
+396,Electronics and Instrumentation,ATUL SINGH,25E2019,6.77,Pass
+402,Computer Science,ABHAY MAHOR,25C2102,6.73,Pass
+402,Computer Science,DIVYANSH SINGH PARIHAR,25C2132,6.73,Pass
+402,Information Technology,PIYUSH VERMA,25I2049,6.73,Pass
+402,Information Technology,SANDEEP DEVKA,25I2161,6.73,Pass
+402,Computer Science Business Studies,KAUSTUV SHARMA,25B2129,6.73,Pass
+402,Electronics and Telecommunication,ADITYA MALVIYA,25T2003,6.73,Pass
+402,Electronics and Telecommunication,ADITYA SAVALE,25T2108,6.73,Pass
+402,Electronics and Telecommunication,AKSHAT KUMAR GEETE,25T2114,6.73,Pass
+402,Electronics and Instrumentation,KAVYA GOYAL,25E2036,6.73,Pass
+402,Electronics and Instrumentation,MAHI KHANDELWAL,25E2039,6.73,Pass
+412,Information Technology,CHANDRESH AHIRWAR,25I2016,6.68,Pass
+412,Information Technology,AJEET JAIN,25I2108,6.68,Pass
+412,Computer Science Business Studies,PRAKRAT PORWAL,25B2043,6.68,Pass
+412,Computer Science Business Studies,PRATHAM YADAV,25B2045,6.68,Pass
+412,Computer Science Business Studies,TANISHK DHAKAD,25B2164,6.68,Pass
+412,Civil,YASHASVINI SHARMA,25V2076,6.68,Pass
+418,Computer Science,KANISHQ VYAS,25C2037,6.64,Pass
+418,Computer Science,PRANAY SOLANKI,25C2048,6.64,Pass
+418,Computer Science,SUHANI RATHORE,25C2071,6.64,Pass
+418,Computer Science,DEVISHARAN SHAKYA,25C2131,6.64,Pass
+418,Information Technology,ASHUTOSH BHATT,25I2116,6.64,Pass
+418,Computer Science Business Studies,ISHA KUMBHKAR,25B2072,6.64,Pass
+418,Electronics and Telecommunication,KRISHNA KUMAR TIWARI,25T2038,6.64,Pass
+418,Civil,PRIYA PANIKA,25V2048,6.64,Pass
+426,Information Technology,BHAVESH RAJPUT,25I2014,6.59,Pass
+426,Computer Science Business Studies,VEDANT AGRAWAL,25B2127,6.59,Pass
+428,Computer Science,TANMAY SILAWAT,25C2178,6.55,Pass
+428,Information Technology,JAYANT MANDLOI,25I2129,6.55,Pass
+428,Computer Science Business Studies,AYAAN ALI,25B2119,6.55,Pass
+428,Computer Science Business Studies,SUYASH PARASHAR,25B2162,6.55,Pass
+428,Electronics and Telecommunication,SARTHAK KUMAR,25T2066,6.55,Pass
+428,Electronics and Telecommunication,ADITYA SHRIVASTAVA,25T2109,6.55,Pass
+428,Electronics and Telecommunication,RAHUL RAJURKAR,25T2157,6.55,Pass
+428,Civil,HARSH SINGH TOMAR,25V2022,6.55,Pass
+436,Computer Science,CHITRANSH BUCHADE,25C2023,6.5,Pass
+436,Computer Science,LIZA BHAGAT,25C2039,6.5,Pass
+436,Information Technology,SANIYA MEHRA,25I2162,6.5,Pass
+436,Information Technology,SARTHAK PATIDAR,25I2164,6.5,Pass
+436,Computer Science Business Studies,ALAF SHEIKH,25B2008,6.5,Pass
+436,Computer Science Business Studies,AVEER SHAKYA,25B2015,6.5,Pass
+436,Computer Science Business Studies,YASH JAIN,25B2066,6.5,Pass
+436,Civil,SEJAL SOMKUWAR,25V2061,6.5,Pass
+444,Information Technology,PARV JAIN,25I2143,6.45,Pass
+444,Electronics and Instrumentation,PANKAJ GOYAL,25E2047,6.45,Pass
+444,Electronics and Instrumentation,POORVANG JAIN,25E2049,6.45,Pass
+444,Electronics and Instrumentation,TUSHAR RATHORE,25E2066,6.45,Pass
+444,Electronics and Instrumentation,YASH SEN,25E2077,6.45,Pass
+444,Civil,YASH CHOUDHARY,25V2075,6.45,Pass
+450,Information Technology,AARYAN DAWAR,25I2102,6.41,Pass
+450,Information Technology,UMANG AGRAWAL,25I2174,6.41,Pass
+450,Computer Science Business Studies,HARSHIT SHARMA,25B2124,6.41,Pass
+450,Electronics and Telecommunication,BHAVYA SINGH RATHOD,25T2125,6.41,Pass
+450,Civil,JATIN MALVIYA,25V2024,6.41,Pass
+455,Computer Science,JAYESH SHASTRI,25C2141,6.36,Pass
+455,Information Technology,NISHA WASKALE,25I2140,6.36,Pass
+455,Information Technology,PIYUSH URWETI,25I2144,6.36,Pass
+455,Information Technology,AASHI MISHRA,25I2181,6.36,Pass
+455,Electronics and Telecommunication,AVANI UPADHYAY,25T2019,6.36,Pass
+455,Civil,ANUSHREE VAIDYA,25V2010,6.36,Pass
+461,Computer Science,GAURAV MUKATI,25C2028,6.32,Pass
+461,Computer Science,KRISHNA WASKALE,25C2144,6.32,Pass
+461,Computer Science Business Studies,ABHIRAJ DHADDHA,25B2104,6.32,Pass
+461,Computer Science Business Studies,ADITYA RAGHUWANSHI,25B2106,6.32,Pass
+461,Computer Science Business Studies,ARMAN KHAN,25B2114,6.32,Pass
+461,Computer Science Business Studies,ARPIT DANDHARE,25B2115,6.32,Pass
+461,Computer Science Business Studies,UDAY YADAV,25B2165,6.32,Pass
+461,Computer Science Business Studies,JAYESH BHATIA,25B2177,6.32,Pass
+461,Electronics and Telecommunication,ANUNAY RANGARI,25T2014,6.32,Pass
+461,Electronics and Instrumentation,AADITYA CHAURASIA,25E2002,6.32,Pass
+461,Electronics and Instrumentation,ANSHUL MEHRA,25E2013,6.32,Pass
+461,Electronics and Instrumentation,JAYDITYA SINGH PARMAR,25E2030,6.32,Pass
+473,Computer Science,SHIVAM SHARMA,25C2063,6.27,Pass
+473,Computer Science,AYUSH PANT,25C2125,6.27,Pass
+473,Computer Science Business Studies,GUNJAN SAGAR,25B2070,6.27,Pass
+476,Computer Science,ABHISHEK SHARMA,25C2003,6.23,Pass
+476,Information Technology,HARSH VERMA,25I2023,6.23,Pass
+476,Information Technology,PREETI MANDLOI,25I2148,6.23,Pass
+476,Civil,SOURABH SINGH,25V2064,6.23,Pass
+476,Civil,VAIDIK KANESH,25V2070,6.23,Pass
+481,Computer Science,AASHIKA JAIN,25C2101,6.18,Pass
+481,Information Technology,SUMIT GOUR,25I2072,6.18,Pass
+481,Computer Science Business Studies,SHIVANI,25B2150,6.18,Pass
+481,Electronics and Telecommunication,RAHUL BADWAHE,25T2156,6.18,Pass
+481,Electronics and Instrumentation,BHARAT VERMA,25E2021,6.18,Pass
+486,Computer Science,YASHVANT KUMAR MARAVI,25C2079,6.14,Pass
+486,Computer Science,AYUSH JAIN,25C2123,6.14,Pass
+486,Information Technology,KSHITIJ MARAVI,25I2032,6.14,Pass
+486,Computer Science Business Studies,ATHARV PORWAL,25B2116,6.14,Pass
+486,Computer Science Business Studies,YASHVARDHAN PATIDAR,25B2170,6.14,Pass
+486,Electronics and Instrumentation,VARMA MAYANK,25E2072,6.14,Pass
+492,Computer Science,AYUSH AJMERI,25C2018,6.09,Pass
+492,Information Technology,SHUBHAM GOUTAM,25I2065,6.09,Pass
+494,Information Technology,AJAY PAL,25I2003,6.05,Pass
+494,Computer Science Business Studies,AADHYANTEE KULKARNI,25B2002,6.05,Pass
+494,Computer Science Business Studies,MEDHANSH RAI,25B2030,6.05,Pass
+494,Computer Science Business Studies,PAYAL SUTHAR,25B2041,6.05,Pass
+494,Electronics and Telecommunication,AMAN PATEL,25T2006,6.05,Pass
+494,Electronics and Telecommunication,VINAY RATHORE,25T2174,6.05,Pass
+494,Electronics and Instrumentation,AGRATA CHATURVEDI,25E2007,6.05,Pass
+501,Information Technology,HARSH GUPTA,25I2021,5.95,Pass
+502,Information Technology,ADITYA JAIN,25I2106,5.91,Pass
+502,Information Technology,DEEPANSHU VANCHHODE,25I2122,5.91,Pass
+502,Computer Science Business Studies,SURYANSH CHOUKSEY,25B2160,5.91,Pass
+502,Electronics and Telecommunication,SATYAM JATAV,25T2067,5.91,Pass
+502,Electronics and Instrumentation,NITESH MALI,25E2046,5.91,Pass
+507,Computer Science Business Studies,MUDIT DAGOR,25B2071,5.86,Pass
+507,Electronics and Instrumentation,ARPAN BAJPAI,25E2015,5.86,Pass
+507,Electronics and Instrumentation,SAHIL SINGH CHAUHAN,25E2056,5.86,Pass
+510,Computer Science,KAJAL RAWAT,25C2036,5.82,Pass
+510,Information Technology,RISHABH SATARE,25I2055,5.82,Pass
+510,Computer Science Business Studies,GEHNA BHAWSAR,25B2020,5.82,Pass
+510,Computer Science Business Studies,SANVI SHARMA,25B2073,5.82,Pass
+510,Electronics and Telecommunication,RANJEET SITOLE,25T2158,5.82,Pass
+510,Civil,PRAPHULL BHAGAT,25V2044,5.82,Pass
+510,Civil,YASH AGRAWAL,25V2074,5.82,Pass
+517,Computer Science,PULKIT JAIN,25C2044,5.77,Pass
+517,Computer Science Business Studies,LALIT KARAN,25B2134,5.77,Pass
+517,Electronics and Telecommunication,PARTH CHOUKIKAR,25T2053,5.77,Pass
+520,Information Technology,SHEETAL HATILA,25I2165,5.73,Pass
+520,Computer Science Business Studies,SAMEER HIRVE,25B2056,5.73,Pass
+520,Civil,UDAY SHAH,25V2069,5.73,Pass
+523,Information Technology,MRIDUL NAMA,25I2040,5.68,Pass
+523,Computer Science Business Studies,PRABHAS SHARMA,25B2141,5.68,Pass
+523,Civil,KAMNA SINGH GOUND,25V2027,5.68,Pass
+526,Computer Science,ARJUN AKHADIYA,25C2120,5.64,Pass
+526,Information Technology,RIDHAM PATEL,25I2154,5.64,Pass
+526,Computer Science Business Studies,ABHISHEK VERMA,25B2006,5.64,Pass
+526,Electronics and Telecommunication,CHAYAN KHER,25T2128,5.64,Pass
+526,Civil,ROHIT MAIDA,25V2054,5.64,Pass
+531,Computer Science,LAVISH AKHAND,25C2147,5.59,Pass
+531,Electronics and Telecommunication,ADARSH KUMAR JATAV,25T2105,5.59,Pass
+531,Electronics and Telecommunication,ADITYA BANDU AKHARE,25T2106,5.59,Pass
+531,Electronics and Instrumentation,HARSH PATEL,25E2028,5.59,Pass
+535,Computer Science,ANUJ KUMRE,25C2012,5.55,Pass
+535,Computer Science Business Studies,ANADI DUBEY,25B2110,5.55,Pass
+537,Computer Science,HIMESH KORI,25C2034,5.5,Pass
+537,Computer Science,ROODEEPI BANSOD,25C2166,5.5,Pass
+537,Electronics and Telecommunication,SAHIL SUNHARE,25T2062,5.5,Pass
+537,Electronics and Telecommunication,PRINCE GULBASE,25T2155,5.5,Pass
+541,Information Technology,VEDANT MALVIYA,25I2176,5.45,Pass
+541,Computer Science Business Studies,AUGUST MISHRA,25B2014,5.45,Pass
+541,Computer Science Business Studies,SANJOG BILARWAN,25B2149,5.45,Pass
+544,Computer Science,SUR DOSHI,25C2072,5.41,Pass
+544,Computer Science Business Studies,AADITYA PAWAR,25B2076,5.41,Pass
+546,Computer Science,JAI MANJHI,25C2139,5.36,Pass
+546,Information Technology,SAHARSH NEEMA,25I2059,5.36,Pass
+546,Information Technology,MOHIT MEENA,25I2135,5.36,Pass
+546,Computer Science Business Studies,RAKSHIT SHRIVASTAVA,25B2047,5.36,Pass
+546,Computer Science Business Studies,TANAY PATIDAR,25B2163,5.36,Pass
+546,Civil,MRADUL SHARMA,25V2002,5.36,Pass
+552,Computer Science,AMAN CHAUDHARY,25C2009,5.32,Pass
+552,Information Technology,TANISHQ BOBDE,25I2075,5.32,Pass
+552,Computer Science Business Studies,SUYASH GUPTA,25B2175,5.32,Pass
+555,Information Technology,RANVIR SINGH GANDHI,25I2153,5.27,Pass
+556,Computer Science,SWAPNIL CHOURASIYA,25C2073,5.23,Pass
+556,Information Technology,DHERYA PANDEY,25I2123,5.23,Pass
+556,Computer Science Business Studies,ARYAN SHRIVASTAVA,25B2012,5.23,Pass
+559,Information Technology,HIMANSHI KORI,25I2127,5.18,Pass
+560,Computer Science,HARSHAL PATEL,25C2135,5.14,Pass
+561,Civil,ANUJ PATEL,25V2015,5.09,Pass
+562,Computer Science Business Studies,ROUNEET RAJ SINHA,25B2054,5.05,Pass
+563,Computer Science Business Studies,MANOGYA JAIN,25B2136,5.0,Pass
+563,Electronics and Telecommunication,ARYAN TRIPATHI,25T2017,5.0,Pass
+565,Computer Science Business Studies,ABDULLAH KHIZER,25B2005,4.95,Pass
+566,Electronics and Telecommunication,NAVEEN KUMAR TEKAM,25T2048,4.91,Pass
+566,Electronics and Instrumentation,SHEIKH ARASHAD,25E2060,4.91,Pass
+566,Civil,ROSHNI JADHAV,25V2055,4.91,Pass
+569,Electronics and Instrumentation,VINIT,25E2075,4.55,Pass
+570,Computer Science Business Studies,YATHARTH RASANIYA,25B2067,4.5,Pass
+571,Computer Science,ABHI NAIK,25C2103,6.86,Fail
+572,Computer Science Business Studies,OM PATEL,25B2037,6.41,Fail
+573,Information Technology,SHIVANSHU PRAJAPATI,25I2062,6.14,Fail
+574,Computer Science Business Studies,VANSH ABROAL,25B2166,6.05,Fail
+574,Civil,PRADHUMNA SHARMA,25V2043,6.05,Fail
+576,Information Technology,JAY MAHAWER,25I2025,5.91,Fail
+577,Electronics and Telecommunication,KANISHK DWIVEDI,25T2138,5.86,Fail
+578,Computer Science Business Studies,SUBAHAAN BILAL,25B2061,5.77,Fail
+578,Civil,SANJU DANGI,25V2059,5.77,Fail
+580,Information Technology,SACHIN YADAV,25I2058,5.73,Fail
+581,Information Technology,KESHAV PATIDAR,25I2029,5.68,Fail
+582,Civil,GAURAV DHAKAR,25V2020,5.64,Fail
+583,Civil,SANVI SAXENA,25V2060,5.59,Fail
+584,Electronics and Telecommunication,ADITYA KUMAR KOUSHAL,25T2107,5.55,Fail
+584,Civil,SUNDARAM PANDEY,25V2065,5.55,Fail
+586,Computer Science,HARSHWARDHAN DOLEKAR,25C2136,5.5,Fail
+587,Civil,RISHIRAJ CHANPURIYA,25V2053,5.45,Fail
+588,Civil,NEELIMA DHURVE,25V2037,5.36,Fail
+589,Information Technology,SOUMYA SHRIVASTAV,25I2056,5.32,Fail
+589,Electronics and Telecommunication,SAMRADDHI TIROLE,25T2130,5.32,Fail
+591,Information Technology,SRAJAL MALVIYA,25I2070,5.27,Fail
+592,Computer Science Business Studies,SOURABH TIWARI,25B2156,5.23,Fail
+592,Electronics and Instrumentation,KAPISH GOYAL,25E2033,5.23,Fail
+592,Electronics and Instrumentation,SHEIKH MOHD RAFE,25E2061,5.23,Fail
+595,Information Technology,RAJAS PURANIK,25I2151,5.18,Fail
+595,Computer Science Business Studies,AMEY GAURHAR,25B2109,5.18,Fail
+595,Electronics and Telecommunication,KUSHAGRA SHARMA,25T2040,5.18,Fail
+595,Electronics and Telecommunication,ARNAV SINHAL,25T2117,5.18,Fail
+595,Civil,BHUPENDRA VAISHYA,25V2013,5.18,Fail
+595,Civil,KUMKUM WASKEL,25V2033,5.18,Fail
+601,Electronics and Telecommunication,PRAVEEN BHUSARE,25T2055,5.14,Fail
+602,Computer Science,JAY BARASKER,25C2140,5.09,Fail
+603,Computer Science,AYUSH GHANGHAURIYA,25C2019,5.05,Fail
+603,Computer Science,PRAKHAR SHARMA,25C2156,5.05,Fail
+603,Information Technology,KABIR CHHAJLANI,25I2027,5.05,Fail
+603,Information Technology,PRAGYA DAWAR,25I2051,5.05,Fail
+603,Electronics and Telecommunication,ASHISH KUMAR PRAJAPATI,25T2123,5.05,Fail
+608,Computer Science Business Studies,SHUBHANK DHOTE,25B2152,5.0,Fail
+608,Electronics and Telecommunication,AYUSHI PARMAR,25T2124,5.0,Fail
+608,Electronics and Instrumentation,KAISHAV MAHAWAR,25E2031,5.0,Fail
+611,Information Technology,VIKASH KUMAR JATAV,25I2178,4.95,Fail
+611,Electronics and Instrumentation,SARTHAK SOMTIYA,25E2058,4.95,Fail
+613,Computer Science,ADITYA DHANGAR,25C2107,4.91,Fail
+613,Information Technology,HARDIK BHAVNANI,25I2005,4.91,Fail
+613,Computer Science Business Studies,SUMIT VASAVE,25B2159,4.91,Fail
+613,Electronics and Telecommunication,NAVEEN PATEL,25T2180,4.91,Fail
+613,Civil,TARUN LIMANPURE,25V2066,4.91,Fail
+613,Civil,VANSHIKA CHOUHAN,25V2072,4.91,Fail
+619,Information Technology,BHAVISHYA MANGAL,25I2120,4.86,Fail
+620,Information Technology,KUSHAL SINGH CHOUHAN,25I2130,4.82,Fail
+620,Computer Science Business Studies,HARSHUL CHATURVEDI,25B2024,4.82,Fail
+620,Electronics and Telecommunication,MONIKA SINGH,25T2046,4.82,Fail
+623,Electronics and Telecommunication,BHUPENDRA PARMAR,25T2023,4.77,Fail
+623,Electronics and Instrumentation,GOPAL SHARMA,25E2026,4.77,Fail
+625,Information Technology,NIHAL PARTETI,25I2044,4.73,Fail
+625,Information Technology,ADVIN GEHLOT,25I2107,4.73,Fail
+625,Computer Science Business Studies,MOHAMMAD HANIF MUGAL,25B2137,4.73,Fail
+625,Electronics and Instrumentation,MAHENDRA WAGH,25E2038,4.73,Fail
+625,Civil,DIVYANSHI MAURYA,25V2018,4.73,Fail
+630,Computer Science,HARSHIT SIDDHARTH,25C2032,4.68,Fail
+630,Information Technology,SHIVAM WASKEL,25I2167,4.68,Fail
+630,Electronics and Instrumentation,ADITYA DUBEPURIA,25E2006,4.68,Fail
+633,Computer Science,RAJ PRAJAPATI,25C2163,4.64,Fail
+633,Computer Science Business Studies,HARSHRAJ JAIN,25B2125,4.64,Fail
+635,Computer Science,ANUJ RAJA PARMAR,25C2013,4.59,Fail
+635,Electronics and Telecommunication,AKSHAT RAI,25T2115,4.59,Fail
+635,Civil,SANDHYA PARTETI,25V2057,4.59,Fail
+638,Information Technology,RAJNEESH SINGH,25I2152,4.55,Fail
+639,Computer Science,DEV PRATAP SINGH NINAMA,25C2129,4.5,Fail
+639,Computer Science,SAKSHI RAYKUNVAR,25C2168,4.5,Fail
+639,Information Technology,TANMAY KACHHWAHE,25I2076,4.5,Fail
+639,Information Technology,AKARSH KOSHTI,25I2109,4.5,Fail
+639,Electronics and Instrumentation,ARPIT PARMAR,25E2022,4.5,Fail
+639,Electronics and Instrumentation,RUDRA VERMA,25E2055,4.5,Fail
+645,Computer Science,LAKSHYDEEP KALE,25C2146,4.45,Fail
+645,Information Technology,ARUSH VERMA,25I2114,4.45,Fail
+645,Computer Science Business Studies,RASHIK PATEL,25B2049,4.45,Fail
+645,Computer Science Business Studies,BHAVYA MAHESHWARI,25B2173,4.45,Fail
+645,Electronics and Instrumentation,PRADEEP NAGAR,25E2050,4.45,Fail
+645,Civil,JATIN LODWAL,25V2023,4.45,Fail
+651,Computer Science Business Studies,AANCHAL PATIDAR,25B2004,4.41,Fail
+651,Computer Science Business Studies,PRASHASHT PATEL,25B2044,4.41,Fail
+651,Computer Science Business Studies,ANSHIKA TIWARI,25B2112,4.41,Fail
+651,Electronics and Instrumentation,UTKARSH PANDEY,25E2068,4.41,Fail
+655,Computer Science,MAYANK KUMAR DHURWEY,25C2042,4.32,Fail
+655,Computer Science,KSHITIJ JOY MANOHAR,25C2145,4.32,Fail
+655,Computer Science Business Studies,KUSHAL MARMAT,25B2133,4.32,Fail
+655,Computer Science Business Studies,MRIDUL RAJ SINGH JHALA,25B2138,4.32,Fail
+655,Electronics and Telecommunication,ADITYA SINGH RAJPUT,25T2110,4.32,Fail
+655,Electronics and Telecommunication,AKHIL PREM PRAJAPATI,25T2112,4.32,Fail
+655,Electronics and Telecommunication,MAYANK MEENA,25T2144,4.32,Fail
+662,Information Technology,NEVDHA KANUNGO,25I2042,4.27,Fail
+662,Information Technology,MARUTINANDAN PATEL,25I2134,4.27,Fail
+662,Computer Science Business Studies,GOURAV RATHOD,25B2021,4.27,Fail
+662,Electronics and Telecommunication,KESHAV AGRAWAL,25T2179,4.27,Fail
+666,Information Technology,AKHILESH PARTE,25I2110,4.23,Fail
+666,Information Technology,NIKHIL KHATRI,25I2138,4.23,Fail
+666,Computer Science Business Studies,JALAJ MITHORIYA,25B2128,4.23,Fail
+669,Electronics and Telecommunication,ANEESH KUMAR,25T2008,4.18,Fail
+670,Computer Science,SANJANA DALKE,25C2170,4.14,Fail
+671,Computer Science,SHUBHAM WASKEL,25C2172,4.09,Fail
+671,Information Technology,DEEPAK AHIRWAR,25I2017,4.09,Fail
+671,Computer Science Business Studies,DHRUV NAGAR,25B2123,4.09,Fail
+674,Electronics and Telecommunication,SIDDHARTH DANGI THAKUR,25T2167,4.05,Fail
+675,Information Technology,TANISHK SARIYAM,25I2074,4.0,Fail
+675,Electronics and Telecommunication,VISHESH JAIN,25T2175,4.0,Fail
+675,Electronics and Instrumentation,KANAK PARMAR,25E2032,4.0,Fail
+678,Computer Science,NISHA THAKRE,25C2047,3.95,Fail
+678,Electronics and Instrumentation,VISHNU THAKORIYA,25E2076,3.95,Fail
+680,Information Technology,KHUSHI AHIRWAR,25I2030,3.86,Fail
+680,Civil,NAVEEN SINGH GURJAR,25V2036,3.86,Fail
+682,Electronics and Telecommunication,SHANTANU WAGHMARE,25T2166,3.82,Fail
+683,Computer Science,PAYAL BHAIDIYA,25C2155,3.77,Fail
+683,Electronics and Telecommunication,ADITYA SINGH TANWAR,25T2004,3.77,Fail
+683,Electronics and Telecommunication,DEVANSHI SAHARIYA,25T2131,3.77,Fail
+683,Electronics and Instrumentation,ARPIT RATHORE,25E2016,3.77,Fail
+683,Civil,OM DHAKRE,25V2039,3.77,Fail
+688,Computer Science,ASHWIN MARSKOLE,25C2016,3.73,Fail
+688,Information Technology,RISHI PATEL,25I2156,3.73,Fail
+690,Civil,TARUN SINGH,25V2067,3.68,Fail
+691,Computer Science Business Studies,ADITYA SITOLA,25B2007,3.59,Fail
+691,Civil,VIKASH DHAKAR,25V2073,3.59,Fail
+693,Information Technology,ROHIT DAMADE,25I2057,3.55,Fail
+693,Electronics and Telecommunication,ASHISH AHIRWAR,25T2018,3.55,Fail
+695,Information Technology,MOHIT SHARMA,25I2038,3.5,Fail
+695,Computer Science Business Studies,PAYAL JATAV,25B2040,3.5,Fail
+695,Computer Science Business Studies,SHIVAM GUPTA,25B2059,3.5,Fail
+698,Information Technology,VIVEK SINGH,25I2179,3.45,Fail
+698,Computer Science Business Studies,AKARSH BAGRECHA,25B2108,3.45,Fail
+698,Electronics and Telecommunication,DISHANT PATIDAR,25T2030,3.45,Fail
+698,Civil,VANSH GUPTA,25V2071,3.45,Fail
+702,Information Technology,VIJAY BHABAR,25I2080,3.41,Fail
+702,Electronics and Telecommunication,DUSHYANT SHARMA,25T2136,3.41,Fail
+702,Electronics and Instrumentation,DIKSHANT VERMA,25E2024,3.41,Fail
+702,Electronics and Instrumentation,MANDEEP MALVIYA,25E2041,3.41,Fail
+706,Information Technology,MANISH KUMAR NARRETI,25I2035,3.36,Fail
+706,Electronics and Telecommunication,DEEPAK CHOUHAN,25T2026,3.36,Fail
+706,Electronics and Telecommunication,KSHITIZ MARSKOLE,25T2141,3.36,Fail
+706,Electronics and Instrumentation,HARSH KANWAR,25E2027,3.36,Fail
+710,Information Technology,AYUSH SHARMA,25I2012,3.32,Fail
+710,Electronics and Instrumentation,SWAPNIL VERMA,25E2064,3.32,Fail
+712,Computer Science,NAVEEN BARE,25C2046,3.27,Fail
+712,Electronics and Telecommunication,VIVEK SHARMA,25T2176,3.27,Fail
+712,Electronics and Telecommunication,YUVRAJ SINGH PARMAR,25T2177,3.27,Fail
+715,Information Technology,ARINDAM SIDDH SHRIVASTAVA,25I2113,3.23,Fail
+716,Information Technology,DIPESH PATIL,25I2125,3.14,Fail
+716,Electronics and Telecommunication,MANTHAN DAWAR,25T2044,3.14,Fail
+718,Information Technology,VEDANT MARKAM,25I2079,3.09,Fail
+718,Electronics and Telecommunication,KUNDAN MANDLOI,25T2039,3.09,Fail
+718,Electronics and Telecommunication,DIVYANSH KUMAR HAJARIYA,25T2135,3.09,Fail
+721,Computer Science Business Studies,NAMRATA BANSODE,25B2139,3.05,Fail
+721,Electronics and Instrumentation,AAYUSH SHAKYA,25E2004,3.05,Fail
+723,Computer Science Business Studies,YUVRAJ SONI,25B2171,3.0,Fail
+723,Civil,AJAY SAHU,25V2003,3.0,Fail
+725,Information Technology,AAYUSH PANWAR,25I2001,2.95,Fail
+725,Electronics and Telecommunication,HARSH SURYAWANSHI,25T2033,2.95,Fail
+725,Electronics and Instrumentation,SHIVAM NOTIYA,25E2062,2.95,Fail
+725,Civil,HRITWHIZ SHARMA,25V2025,2.95,Fail
+729,Electronics and Telecommunication,AJAY SINGH,25T2005,2.91,Fail
+730,Electronics and Telecommunication,NITIN CHOUHAN,25T2149,2.86,Fail
+731,Computer Science,PURVESH KHODRIYA,25C2053,2.82,Fail
+732,Electronics and Telecommunication,RITESH GAUTAM,25T2059,2.77,Fail
+733,Computer Science,SHIVANG CHATURVEDI,25C2113,2.73,Fail
+733,Electronics and Instrumentation,UDAY THAWARE,25E2067,2.73,Fail
+733,Electronics and Instrumentation,UTSAV RAWAT,25E2069,2.73,Fail
+736,Computer Science Business Studies,OM DAKHOLE,25B2140,2.68,Fail
+737,Computer Science,ADEEBA MUNEER,25C2005,2.59,Fail
+738,Computer Science,ANSHUMAN SHUKLA,25C2118,2.55,Fail
+738,Computer Science,SRAJAL GONDANE,25C2176,2.55,Fail
+740,Information Technology,SURYANSH KHARE,25I2172,2.5,Fail
+741,Computer Science Business Studies,CHETAN PATIDAR,25B2122,2.45,Fail
+741,Electronics and Telecommunication,VIKASH SINGH,25T2173,2.45,Fail
+743,Electronics and Telecommunication,SANJEET AHIRWAR,25T2164,2.41,Fail
+744,Computer Science Business Studies,RISHI PATEL,25B2052,2.36,Fail
+744,Electronics and Telecommunication,SOYAM NIKKAM,25T2168,2.36,Fail
+746,Electronics and Instrumentation,MAYANK KUMAR RAIKWAL,25E2042,2.32,Fail
+747,Civil,PRATHAM HIRWANI,25V2014,2.23,Fail
+748,Electronics and Telecommunication,DEVENDRA MOGIYA,25T2028,2.14,Fail
+749,Information Technology,PAVITRA MEGHWAL,25I2048,2.05,Fail
+749,Electronics and Telecommunication,MANTHAN CHHARI,25T2043,2.05,Fail
+751,Computer Science,DAMINI UIKEY,25C2024,2.0,Fail
+751,Computer Science,HIMANSHU DESHMUKH,25C2033,2.0,Fail
+753,Civil,AKARVI PATIL,25V2011,1.82,Fail
+754,Civil,NIMESH CHOUDHARY,25V2038,1.77,Fail
+755,Computer Science,SOURABH JATAV,25C2069,1.73,Fail
+756,Information Technology,MONIT CHONGAD,25I2039,1.68,Fail
+756,Electronics and Instrumentation,KARTIK RAIKWAR,25E2034,1.68,Fail
+758,Computer Science Business Studies,SHOURYA RAWAT,25B2151,1.55,Fail
+758,Civil,TUSHAR YADAV,25V2068,1.55,Fail
+760,Computer Science Business Studies,KRISHANA PATIDAR,25B2130,1.5,Fail
+761,Computer Science,PRINCE MARATHA,25C2161,1.45,Fail
+762,Civil,MAYANK JAMRE,25V2035,1.41,Fail
+763,Computer Science Business Studies,RAM CHOUDHARY,25B2147,1.36,Fail
+764,Computer Science Business Studies,SHIVAM DHAKAD,25B2058,1.32,Fail
+765,Computer Science Business Studies,GOURAV YADAV,25B2022,1.27,Fail
+766,Computer Science,ANJALI LODHARE,25C2114,1.23,Fail
+767,Computer Science Business Studies,DIVYANSH LAHORIYA,25B2019,1.0,Fail
+768,Electronics and Instrumentation,VINAY FARACLE,25E2074,0.91,Fail
+769,Computer Science Business Studies,SANDARBH DUBEY,25B2025,0.64,Fail
+770,Computer Science Business Studies,RISHIT JAIN,25B2053,0.41,Fail
+771,Computer Science,GOURAVRAJ SINGH PANWAR,25C2029,0.36,Fail
+772,Electronics and Instrumentation,AVINASH SINGH SOLANKI,25E2020,0.23,Fail
+773,Computer Science,HARSHDEEP SINGH HORA,25C2007,0.0,Fail
+773,Computer Science,PRINCE CHOUDHARY,25C2050,0.0,Fail
+773,Computer Science,AKASH UIKEY,25C2108,0.0,Fail
+773,Computer Science,ANKIT,25C2115,0.0,Fail
+773,Information Technology,RAVI CHOUHAN,25I2054,0.0,Fail
+773,Information Technology,SIDDHARTH JAIN,25I2067,0.0,Fail
+773,Information Technology,LAKSHYA CHHABRA,25I2131,0.0,Fail
+773,Information Technology,LUCKY SOLANKI,25I2133,0.0,Fail
+773,Computer Science Business Studies,SAMARTH BAROTHIYA,25B2055,0.0,Fail
+773,Computer Science Business Studies,BARVE PRIYANKA SHIVAJI,25B2120,0.0,Fail
+773,Electronics and Telecommunication,DILEEP AHIRWAR,25T2132,0.0,Fail
+773,Civil,KANHA ALAWA,25V2028,0.0,Fail
+773,Civil,PIYUSH KUMAR RAIDAS,25V2040,0.0,Fail
+773,Civil,RAJ DHAKAD,25V2050,0.0,Fail

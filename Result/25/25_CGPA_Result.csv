@@ -1,0 +1,863 @@
+roll,name,branch,sem1_cg,sem2_cg,cgpa
+25V1077,YASHRAJ KOURAV,Civil,9.73,9.77,9.75
+25I1121,BHOOMI AHUJA,Information Technology,9.55,9.59,9.57
+25C1150,NAITIK KHARE,Computer Science,9.68,9.45,9.56
+25B1033,NAINA CHOURASIA,Computer Science Business Studies,9.36,9.68,9.52
+25C1011,ANSHIKA BHAND,Computer Science,9.5,9.45,9.47
+25T1027,DEEPAL GUPTA,Electronics and Telecommunication,9.18,9.77,9.47
+25E1009,AMAN VISHWAKARMA,Electronics and Instrumentation,9.09,9.82,9.46
+25T1120,ANUSHREE RAO,Electronics and Telecommunication,9.23,9.68,9.46
+25B1039,PALAK MAHESHWARI,Computer Science Business Studies,9.18,9.73,9.46
+25C1121,ARSHITA SINGHWANE,Computer Science,9.23,9.59,9.41
+25V1021,HARDIK DHANWANI,Civil,9.18,9.64,9.41
+25E1023,BHOOMIKA SHARMA,Electronics and Instrumentation,9.5,9.27,9.38
+25C1112,ANANYA TIWARI,Computer Science,9.68,9.0,9.34
+25B1132,KUHUK JAIN,Computer Science Business Studies,9.27,9.36,9.31
+25C1171,SHREYANSH TIWARI,Computer Science,9.45,9.18,9.31
+25E1011,ANJALI SINGH,Electronics and Instrumentation,9.27,9.32,9.29
+25B1034,NEERAV TRIVEDI,Computer Science Business Studies,9.32,9.23,9.28
+25E1073,VEDANT PARMAR,Electronics and Instrumentation,9.05,9.5,9.28
+25C1111,ANAHITA MODI,Computer Science,9.36,9.14,9.25
+25C1134,HARSH BANKEY,Computer Science,9.14,9.36,9.25
+25I1043,NIDHISH MALVIYA,Information Technology,9.27,9.23,9.25
+25T1178,TISYA BHATIA,Electronics and Telecommunication,9.32,9.14,9.23
+25C1038,LAKSHYA RAHEJA,Computer Science,8.95,9.5,9.22
+25I1006,KAJAL PATEL,Information Technology,9.0,9.41,9.21
+25C1075,VANSH MAHESHWARI,Computer Science,9.0,9.41,9.21
+25T1001,ABHAY SINGH BAGHEL,Electronics and Telecommunication,9.32,9.05,9.19
+25I1118,AYUSH PANWAR,Information Technology,9.14,9.23,9.19
+25I1128,JAISHREE SINGHAL,Information Technology,9.27,9.09,9.18
+25T1151,PARTH JAGWANI,Electronics and Telecommunication,9.18,9.18,9.18
+25C1164,RAJKUMAR MEWADA,Computer Science,9.23,9.0,9.12
+25C1153,PARTH RAWAT,Computer Science,8.86,9.36,9.11
+25T1061,RONAK SHARMA,Electronics and Telecommunication,8.95,9.23,9.09
+25C1068,SMRITI TIGGA,Computer Science,9.23,8.95,9.09
+25B1062,SUMIT SINGH,Computer Science Business Studies,8.91,9.27,9.09
+25T1051,NITIN PATEL,Electronics and Telecommunication,9.18,8.95,9.06
+25I1111,ANAND PATEL,Information Technology,9.05,9.05,9.05
+25V1030,KHUSHI PARMAR,Civil,8.32,9.77,9.04
+25I1063,SHREYANSH THAKUR,Information Technology,8.82,9.27,9.04
+25C1126,AYUSH PATIDAR,Computer Science,9.27,8.77,9.02
+25E1025,DIVYANSHI DAHARE,Electronics and Instrumentation,9.09,8.95,9.02
+25C1056,RISHI VARMA,Computer Science,8.77,9.27,9.02
+25T1078,VEDANT JAIN,Electronics and Telecommunication,8.95,9.09,9.02
+25E1017,ASHWIKA GUPTA,Electronics and Instrumentation,8.91,9.09,9.0
+25C1025,DEVAGYA RATHORE,Computer Science,8.86,9.14,9.0
+25I1064,SHRUSHTI BHADAURIA,Information Technology,9.18,8.82,9.0
+25C1167,SAISHA DESHPANDE,Computer Science,8.5,9.45,8.97
+25I1146,PRANJAL PRAJAPAT,Information Technology,9.05,8.86,8.96
+25C1067,SIYA GUPTA,Computer Science,8.82,9.09,8.96
+25C1066,SHRIDHAR PANDEY,Computer Science,8.95,8.95,8.95
+25B1003,AADI JAIN,Computer Science Business Studies,8.64,9.23,8.94
+25B1111,ANGEL KALRA,Computer Science Business Studies,9.23,8.64,8.94
+25C1175,SOMIL RAGHUWANSHI,Computer Science,8.73,9.14,8.94
+25B1011,ARYAN MEENA,Computer Science Business Studies,9.05,8.77,8.91
+25C1060,SHARAD PATIDAR,Computer Science,8.73,9.09,8.91
+25B1026,KARTAVYA JAIN,Computer Science Business Studies,8.55,9.23,8.89
+25I1019,DHRUV SINGH,Information Technology,9.27,8.5,8.88
+25C1137,HEER ADWANI,Computer Science,9.0,8.77,8.88
+25V1026,KAMAL KUMAR AHIRWAR,Civil,9.0,8.77,8.88
+25T1153,PRANJALI PANDEY,Electronics and Telecommunication,8.86,8.91,8.88
+25I1160,SAMARTH TAYAL,Information Technology,9.18,8.55,8.87
+25V1004,AKANKSHA VERMA,Civil,8.77,8.95,8.86
+25T1025,DAKSH BAID,Electronics and Telecommunication,8.59,9.09,8.84
+25I1036,MANVENDRA PATEL,Information Technology,8.36,9.32,8.84
+25C1058,SARTHAK KSHIRSAGAR,Computer Science,9.0,8.68,8.84
+25I1007,ANKESH DHAKAR,Information Technology,9.05,8.55,8.8
+25I1002,AISHWARYA MANDLECHA,Information Technology,8.59,9.0,8.79
+25C1110,AMI JAIN,Computer Science,8.95,8.64,8.79
+25C1026,DEVANSHU SONI,Computer Science,8.86,8.73,8.79
+25C1043,MEHUL AITHEKAR,Computer Science,8.91,8.68,8.79
+25V1058,SANJAY THAKUR,Civil,8.18,9.41,8.79
+25B1028,LEESHA GEHLOT,Computer Science Business Studies,8.41,9.14,8.78
+25C1017,ATHARVA PANDEY,Computer Science,8.68,8.86,8.77
+25C1117,ANSHIKA CHAURASIYA,Computer Science,8.91,8.59,8.75
+25I1050,PRACHI GUPTA,Information Technology,9.27,8.23,8.75
+25T1022,BHUMIKA NAMDEV,Electronics and Telecommunication,8.55,8.91,8.73
+25B1060,SIDRA NOOR KHAN,Computer Science Business Studies,8.59,8.86,8.72
+25T1049,NEHA PATEL,Electronics and Telecommunication,8.41,9.0,8.71
+25C1159,PRATHMESH KUMAR SINGH,Computer Science,8.45,8.95,8.7
+25I1168,SHUBH JAIN,Information Technology,8.55,8.82,8.69
+25B1103,ABHINYA BHATTACHARYA,Computer Science Business Studies,8.77,8.59,8.68
+25C1148,MAHI RATHORE,Computer Science,8.68,8.68,8.68
+25C1065,SHRESTH SHARMA,Computer Science,8.5,8.86,8.68
+25C1119,APEKSHA RATHORE,Computer Science,9.05,8.27,8.66
+25I1117,AYUSH MAKWANA,Information Technology,8.82,8.45,8.63
+25B1017,CHARVI JAIN,Computer Science Business Studies,8.36,8.91,8.63
+25I1142,PALAK JAIN,Information Technology,8.95,8.32,8.63
+25E1063,SHREYAS CHOUDHARY,Electronics and Instrumentation,8.77,8.5,8.63
+25B1161,SURYANSH TEEPA,Computer Science Business Studies,8.5,8.77,8.63
+25C1106,ADITYA CHOURASIA,Computer Science,8.64,8.59,8.62
+25C1006,ADITYA JAIN,Computer Science,8.64,8.59,8.62
+25T1134,DIVYANSH KANOJIYA,Electronics and Telecommunication,8.14,9.09,8.62
+25T1037,KRISH PATEL,Electronics and Telecommunication,8.45,8.77,8.61
+25I1046,OM NIRANJAN,Information Technology,8.95,8.27,8.61
+25C1070,SUHANI PATIDAR,Computer Science,8.64,8.55,8.6
+25E1043,NAITIK JAIN,Electronics and Instrumentation,8.41,8.77,8.59
+25I1008,ANSH TIWARI,Information Technology,8.55,8.59,8.57
+25I1009,ANSHIKA TRIVEDI,Information Technology,8.82,8.32,8.57
+25B1027,KRISHNA KIRIT SINGH KUSHWAH,Computer Science Business Studies,7.82,9.32,8.57
+25T1064,SAMEER PANDEY,Electronics and Telecommunication,8.55,8.59,8.57
+25C1059,SEJAL LADDHA,Computer Science,8.59,8.55,8.57
+25C1045,NAITIK BORIYA,Computer Science,8.36,8.73,8.54
+25E1048,PEEYUSH LONARE,Electronics and Instrumentation,8.77,8.32,8.54
+25C1049,PRATIKSHA CHAUHAN,Computer Science,8.86,8.23,8.54
+25T1069,SHARMISHTHA NAYAK,Electronics and Telecommunication,8.09,9.0,8.54
+25E1070,VANSH KEWATE,Electronics and Instrumentation,8.64,8.45,8.54
+25B1009,ANAY GATTANI,Computer Science Business Studies,8.45,8.59,8.52
+25T1159,RASHI SHETH,Electronics and Telecommunication,8.27,8.77,8.52
+25T1113,AKSHAT GUPTA,Electronics and Telecommunication,8.5,8.5,8.5
+25E1010,ANJALI PARAUHA,Electronics and Instrumentation,8.27,8.73,8.5
+25C1116,ANKUSH NEMA,Computer Science,8.32,8.68,8.5
+25C1165,RISHABH CHOUDHARY,Computer Science,8.82,8.18,8.5
+25B1036,NITYA KHANDELWAL,Computer Science Business Studies,8.05,8.91,8.48
+25B1075,KANAK TIWARI,Computer Science Business Studies,8.18,8.73,8.46
+25I1033,KUMKUM PARMAR,Information Technology,8.68,8.23,8.46
+25B1031,MIHIKA AGRAWAL,Computer Science Business Studies,7.82,9.09,8.46
+25I1150,RADHIKA GUPTA,Information Technology,8.23,8.68,8.46
+25I1060,SANSKRITI SAXENA,Information Technology,8.73,8.18,8.46
+25B1168,VEDIKA GANGRADE,Computer Science Business Studies,8.14,8.77,8.46
+25T1024,CHANCHAL JAIN,Electronics and Telecommunication,8.23,8.64,8.44
+25V1056,SAMVIDA ROSE,Civil,8.27,8.59,8.43
+25T1071,SHUBHANSHU JAIN,Electronics and Telecommunication,8.5,8.36,8.43
+25I1034,LAVESH PATIDAR,Information Technology,8.55,8.27,8.41
+25B1035,NEHA SONI,Computer Science Business Studies,7.91,8.91,8.41
+25B1142,PRAGYA SRIVASTAVA,Computer Science Business Studies,8.64,8.14,8.39
+25B1154,SNEHA RAGHUWANSHI,Computer Science Business Studies,8.55,8.23,8.39
+25C1169,TEJASH SINGH SISODIYA,Computer Science,8.5,8.27,8.38
+25T1007,AMRIT SHARMA,Electronics and Telecommunication,8.82,7.91,8.37
+25I1011,AVNI PANDEY,Information Technology,8.55,8.18,8.37
+25B1157,SRISHTI SOLANKI,Computer Science Business Studies,7.82,8.91,8.37
+25B1101,AADESH JAIN,Computer Science Business Studies,8.5,8.18,8.34
+25I1112,ANUGRAH SHARMA,Information Technology,8.32,8.36,8.34
+25V1009,ANUJ KIRAR,Civil,7.68,9.0,8.34
+25V1019,DIVYANSHU KARMA,Civil,7.82,8.86,8.34
+25I1139,NIKHIL SHARMA,Information Technology,8.23,8.45,8.34
+25I1052,PRIYANKA NIHALANI,Information Technology,8.68,8.0,8.34
+25C1077,VRANDA MUNDRA,Computer Science,8.27,8.41,8.34
+25T1111,AJEET KUSHWAHA,Electronics and Telecommunication,8.05,8.59,8.32
+25E1053,RIHANSHU KATRE,Electronics and Instrumentation,8.91,7.73,8.32
+25I1124,DHRUVI JAIN,Information Technology,8.55,8.05,8.3
+25I1103,AASHI VAIDYA,Information Technology,8.55,8.0,8.28
+25C1040,MAHI SHAH,Computer Science,8.0,8.55,8.28
+25T1073,TANISHQ PANDEY,Electronics and Telecommunication,8.0,8.55,8.28
+25I1053,RASHI KHATRI,Information Technology,8.18,8.36,8.27
+25T1052,NITYA NEEMA,Electronics and Telecommunication,8.18,8.32,8.25
+25I1166,SHIVAM PUROHIT,Information Technology,8.55,7.95,8.25
+25M1046,NEHA PRAJAPATI,Mechanical,8.23,,8.23
+25C1052,PRIYANSHI JAIN,Computer Science,8.59,7.86,8.22
+25I1149,PUSHYA GUPTA,Information Technology,8.27,8.18,8.22
+25E1005,ABHINAV CHAURASIYA,Electronics and Instrumentation,8.14,8.27,8.21
+25E1018,ATHARVA MISHRA,Electronics and Instrumentation,8.18,8.23,8.21
+25T1133,DISHA DAGA,Electronics and Telecommunication,8.14,8.27,8.21
+25C1057,RUDRA BORANA,Computer Science,8.05,8.36,8.21
+25B1050,REETI JAIN,Computer Science Business Studies,7.45,8.95,8.2
+25V1052,RASHI AHELLEYA,Civil,8.55,7.82,8.19
+25I1177,VIKAS KELWA,Information Technology,8.23,8.14,8.19
+25V1046,PRATIBHA CHOUHAN,Civil,8.18,8.18,8.18
+25C1055,RINKY KHANNA,Computer Science,8.09,8.27,8.18
+25C1109,AKSHAT JAIN,Computer Science,8.18,8.14,8.16
+25T1103,ANVI AGRAWAL,Electronics and Telecommunication,7.73,8.59,8.16
+25T1126,BHAWANA PATIDAR,Electronics and Telecommunication,8.09,8.23,8.16
+25T1054,PARV KAPOOR,Electronics and Telecommunication,8.18,8.14,8.16
+25E1051,PRASHANT CHOURASIYA,Electronics and Instrumentation,8.55,7.77,8.16
+25I1078,YASHRAJ BOLGE,Information Technology,8.05,8.27,8.16
+25T1058,RISHI YADAV,Electronics and Telecommunication,7.95,8.36,8.15
+25I1066,SHUBHAM SINGHAL,Information Technology,8.45,7.86,8.15
+25T1072,SUMIT SAHU,Electronics and Telecommunication,8.36,7.95,8.15
+25I1061,SHIV KUMAR CHOURASIYA,Information Technology,7.55,8.73,8.14
+25T1060,ROHIT MEENA,Electronics and Telecommunication,8.36,7.91,8.13
+25E1008,AKSHIT PRATAP SINGH RAJAWAT,Electronics and Instrumentation,8.18,8.05,8.12
+25B1029,MANSI MITTAL,Computer Science Business Studies,7.73,8.5,8.12
+25V1042,PRADEEP KUMAR SINGH,Civil,7.73,8.5,8.12
+25V1047,PREM GAUR,Civil,7.68,8.55,8.12
+25I1145,PRAGYA JAIN,Information Technology,8.14,8.05,8.1
+25B1126,HITESHI LUHADIYA,Computer Science Business Studies,7.59,8.59,8.09
+25C1142,KARTAVYA KUMAR KURMI,Computer Science,8.41,7.77,8.09
+25I1041,NAITRI SONI,Information Technology,8.41,7.77,8.09
+25B1023,HARSHIT PATIDAR,Computer Science Business Studies,7.59,8.55,8.07
+25C1080,MAHI JAGWANI,Computer Science,7.82,8.32,8.07
+25C1051,PRIYANSH VERMA,Computer Science,7.91,8.23,8.07
+25E1037,KRISH PRATAP SINGH,Electronics and Instrumentation,7.95,8.18,8.06
+25V1001,AAYUSHI HARSOLA,Civil,7.77,8.32,8.04
+25I1163,SARTHAK JAIN,Information Technology,8.59,7.5,8.04
+25C1177,TANISHQ RAO,Computer Science,7.32,8.77,8.04
+25C1174,TANMAY UPADHYAY,Computer Science,8.23,7.86,8.04
+25B1013,ASTHA CHOUDHARY,Computer Science Business Studies,8.05,8.0,8.03
+25C1157,PRANAV SINGH KUSHWAH,Computer Science,8.32,7.73,8.03
+25C1154,SHIV RAGHUVANSHI,Computer Science,8.05,8.0,8.03
+25B1102,AADISH NAGAR,Computer Science Business Studies,7.45,8.59,8.02
+25T1140,KAREENA BATHAM,Electronics and Telecommunication,8.18,7.86,8.02
+25T1169,SUHANI HEDAU,Electronics and Telecommunication,8.09,7.95,8.02
+25E1054,RITISHA NARNOLIA,Electronics and Instrumentation,8.36,7.64,8.0
+25C1001,AAGAM JAIN,Computer Science,7.82,8.14,7.98
+25C1014,ARPIT MISHRA,Computer Science,7.73,8.23,7.98
+25B1038,PALAK DUBEY,Computer Science Business Studies,7.64,8.32,7.98
+25T1162,SABHYATA IYER,Electronics and Telecommunication,8.14,7.82,7.98
+25E1059,SHARVAREE KALELE,Electronics and Instrumentation,7.91,8.05,7.98
+25T1129,CHITRANSH TRIPATHI,Electronics and Telecommunication,7.95,8.0,7.97
+25I1132,LAKSHYA ROHITAS,Information Technology,7.95,8.0,7.97
+25C1064,SHLOK GUPTA,Computer Science,7.73,8.18,7.96
+25C1151,PALAK JAIN,Computer Science,8.45,7.45,7.95
+25M1062,RASHI KHANDELWAL,Mechanical,7.95,,7.95
+25C1004,ABHISHEK SOLANKI,Computer Science,7.64,8.23,7.94
+25C1027,GARVIKA VYAS,Computer Science,7.82,8.05,7.94
+25C1173,SHUBHENDRA NATH BARTARIA,Computer Science,7.82,8.05,7.94
+25T1031,DRISHTI CHOUBE,Electronics and Telecommunication,8.36,7.5,7.93
+25T1042,LALIT KHANDELWAL,Electronics and Telecommunication,7.91,7.95,7.93
+25B1158,SUMIT SHEJOLE,Computer Science Business Studies,7.59,8.27,7.93
+25T1137,HETVI RATHORE,Electronics and Telecommunication,7.55,8.27,7.91
+25I1026,JAYESH PATIDAR,Information Technology,8.09,7.73,7.91
+25C1031,HARSHIT IVNE,Computer Science,8.23,7.55,7.89
+25T1010,ANKUSH SINGH,Electronics and Telecommunication,7.82,7.95,7.88
+25E1045,NIPUN CHOURASIYA,Electronics and Instrumentation,7.86,7.91,7.88
+25I1141,NITIN RATHORE,Information Technology,7.82,7.95,7.88
+25B1153,SHUBHI SARAF,Computer Science Business Studies,7.77,8.0,7.88
+25T1079,VIKAS PRAJAPATI,Electronics and Telecommunication,7.32,8.45,7.88
+25B1064,VINIT PATIDAR,Computer Science Business Studies,7.09,8.68,7.88
+25I1010,ASMI DUBEY,Information Technology,8.59,7.14,7.87
+25C1124,AYUSH MUKATI,Computer Science,8.0,7.73,7.87
+25B1131,KRISHNA PISEY,Computer Science Business Studies,7.91,7.82,7.87
+25C1062,SHIVAM BAIS,Computer Science,7.59,8.14,7.87
+25B1107,AISHWARYA AGRAWAL,Computer Science Business Studies,7.45,8.27,7.86
+25B1145,PRIYAL SONI,Computer Science Business Studies,7.77,7.95,7.86
+25C1130,DEVENDRA GOUR,Computer Science,7.36,8.32,7.84
+25V1051,MUSKAN RAGHUWANSHI,Civil,7.41,8.27,7.84
+25B1143,PRAKRATI KUSHWAH,Computer Science Business Studies,7.18,8.5,7.84
+25I1147,PRATIBHA PATIDAR,Information Technology,8.59,7.09,7.84
+25B1144,PRINCE KUMAR CHATURVEDI,Computer Science Business Studies,7.91,7.77,7.84
+25I1157,ROHIT THAKUR,Information Technology,7.82,7.86,7.84
+25I1173,SWARALI KOGE,Information Technology,8.0,7.68,7.84
+25I1020,HARIOM TALE,Information Technology,8.55,7.09,7.82
+25I1024,HRIDAY JAIN,Information Technology,8.5,7.14,7.82
+25I1031,KRISH MANI TRIPATHI,Information Technology,8.41,7.23,7.82
+25C1041,MANDRAI SANJANA RAMKHILAVAN,Computer Science,8.23,7.41,7.82
+25T1165,SHAILENDRA AHIRWAR,Electronics and Telecommunication,7.91,7.73,7.82
+25B1048,RAM SHARMA,Computer Science Business Studies,7.27,8.36,7.81
+25I1018,DEVANSHU JAIN,Information Technology,7.95,7.64,7.79
+25E1029,JATIN PAL,Electronics and Instrumentation,7.59,8.0,7.79
+25T1045,MANUDEV TIWARI,Electronics and Telecommunication,7.41,8.18,7.79
+25T1143,MEDHAVI MAHESHWARI,Electronics and Telecommunication,7.91,7.64,7.78
+25I1022,HARSH SAHU,Information Technology,8.14,7.36,7.75
+25C1035,ISHIKA JOSHI,Computer Science,7.55,7.95,7.75
+25V1032,KISHAN GAUR,Civil,7.36,8.14,7.75
+25B1146,PRIYANSHI AGRAWAL,Computer Science Business Studies,7.82,7.68,7.75
+25I1155,RISHABH TIWARI,Information Technology,7.32,8.18,7.75
+25I1159,SALONI MARSKOLE,Information Technology,7.45,8.05,7.75
+25I1175,VEDANT GUPTA,Information Technology,7.91,7.59,7.75
+25T1101,AADISH BABEL,Electronics and Telecommunication,7.82,7.64,7.73
+25B1118,AVNISH AGRAWAL,Computer Science Business Studies,7.91,7.55,7.73
+25I1037,MOHIT PANTHI,Information Technology,7.73,7.73,7.73
+25T1076,TWINKLE ASUDANI,Electronics and Telecommunication,7.82,7.64,7.73
+25I1105,ABHISHEK UPADHYAY,Information Technology,8.45,7.0,7.72
+25V1008,ANUJ KHANDELWAR,Civil,7.09,8.36,7.72
+25E1001,AACHMAN CHOUDHARY,Electronics and Instrumentation,7.64,7.77,7.71
+25T1142,LAKSHYA GOYAL,Electronics and Telecommunication,7.55,7.86,7.71
+25T1047,NAITIK SAHU,Electronics and Telecommunication,7.91,7.5,7.71
+25T1080,YAMINI PANCHOLI,Electronics and Telecommunication,7.27,8.14,7.71
+25I1045,NIRMAL RATHORE,Information Technology,7.73,7.64,7.69
+25I1015,BHAVISHYA PARSAI,Information Technology,8.36,7.0,7.68
+25T1034,HIMANSHU MEENA,Electronics and Telecommunication,7.59,7.77,7.68
+25I1077,VAIBHAVI SARASWAT,Information Technology,8.41,6.91,7.66
+25V1005,AKSHAT SAHU,Civil,7.14,8.14,7.64
+25C1162,RAGHAVRAJ SARAF,Computer Science,7.73,7.55,7.64
+25V1062,SHREYANSH SHARMA,Civil,8.14,7.14,7.64
+25T1016,ARPIT KUMAR GUPTA,Electronics and Telecommunication,7.95,7.32,7.63
+25C1133,GOURI AGRAWAL,Computer Science,7.77,7.5,7.63
+25T1036,KAVY KUMAR VAISHYA,Electronics and Telecommunication,7.45,7.82,7.63
+25T1063,SAKSHAM BAGRI,Electronics and Telecommunication,8.45,6.82,7.63
+25I1068,SNEHA WASKEL,Information Technology,7.82,7.45,7.63
+25B1105,ADITYA GUPTA,Computer Science Business Studies,7.91,7.32,7.62
+25T1013,ANUJ TIBDEWAL,Electronics and Telecommunication,7.55,7.68,7.62
+25B1155,SOUMYA CHANDEL,Computer Science Business Studies,7.55,7.68,7.62
+25E1012,ANSHIKA JAIN,Electronics and Instrumentation,8.27,6.95,7.61
+25I1119,BHAGYA ASATI,Information Technology,7.86,7.36,7.61
+25V1012,BHAVYA GUPTA,Civil,6.95,8.27,7.61
+25I1169,SHUBHRIKA TIWARI,Information Technology,8.36,6.82,7.59
+25T1104,ABHISHEK PANDEY,Electronics and Telecommunication,7.5,7.64,7.57
+25M1030,HARDIK SHARMA,Mechanical,7.55,,7.55
+25B1016,AVISH JAIN,Computer Science Business Studies,7.36,7.73,7.54
+25C1054,RAAGIB ANSARI,Computer Science,7.5,7.59,7.54
+25B1113,ANURAG KUMAR SINGH,Computer Science Business Studies,7.05,8.0,7.53
+25V1049,PRIYAL DAMOR,Civil,7.09,7.95,7.52
+25C1078,YASH GAYKWAD,Computer Science,7.59,7.45,7.52
+25C1105,ABHISHEK YADAV,Computer Science,7.64,7.36,7.5
+25T1122,ARPIT JAIN,Electronics and Telecommunication,7.45,7.55,7.5
+25T1074,TARUNIKA JAJORIYA,Electronics and Telecommunication,7.18,7.82,7.5
+25C1152,PARAMJEET SINGH MONGA,Computer Science,7.23,7.73,7.48
+25I1171,SUDHANSHU CHIMANIYA,Information Technology,7.55,7.41,7.48
+25C1071,SUHANI RATHORE,Computer Science,8.32,6.64,7.48
+25B1172,ZAKI KHAN,Computer Science Business Studies,7.23,7.73,7.48
+25C1122,ATHARV JAIN,Computer Science,7.5,7.45,7.47
+25B1117,AVANI JAIN,Computer Science Business Studies,6.77,8.18,7.47
+25T1102,AAKASH KUMAR BHOR,Electronics and Telecommunication,7.32,7.59,7.46
+25I1104,ABHISHEK RAJPUT,Information Technology,7.18,7.73,7.46
+25E1014,ANUBHUTI LAVANIA,Electronics and Instrumentation,7.32,7.59,7.46
+25V1016,DEVANSH SONI,Civil,7.68,7.23,7.46
+25C1181,HEMANT NAGAR,Computer Science,7.64,7.27,7.46
+25T1160,ISHAN SHAHI,Electronics and Telecommunication,6.91,8.0,7.46
+25C1143,KHUSHI AHIRWAR,Computer Science,7.36,7.55,7.46
+25C1002,ABHIJEET PATIDAR,Computer Science,7.14,7.73,7.44
+25T1118,ANUJ PATEL,Electronics and Telecommunication,7.86,6.95,7.41
+25T1011,KULDEEP CHANDEL,Electronics and Telecommunication,7.0,7.82,7.41
+25V1034,MAHIMA SURYAVANSHI,Civil,7.18,7.64,7.41
+25I1137,NATANSH BIYANI,Information Technology,7.41,7.41,7.41
+25C1180,YASH TOMAR,Computer Science,7.05,7.73,7.39
+25B1135,MANAS NAGARCH,Computer Science Business Studies,7.32,7.45,7.38
+25T1148,NISHA MALWIYA,Electronics and Telecommunication,7.18,7.59,7.38
+25I1069,SOUMYA BORANA,Information Technology,7.41,7.36,7.38
+25T1035,KAPIL BAGDE,Electronics and Telecommunication,7.41,7.32,7.37
+25T1147,NIKHIL JOSHI,Electronics and Telecommunication,7.0,7.73,7.37
+25T1150,NITIN SOLANKI,Electronics and Telecommunication,7.23,7.5,7.37
+25V1041,PRACHI REWER,Civil,7.59,7.14,7.37
+25T1070,SHIVANSH SHARMA,Electronics and Telecommunication,7.32,7.41,7.37
+25C1074,TUSHAR GUPTA,Computer Science,7.32,7.41,7.37
+25V1078,YATHARTH DABI,Civil,6.77,7.95,7.36
+25I1116,ASHUTOSH BHATT,Information Technology,8.05,6.64,7.35
+25E1003,AARUSH PAROHA,Electronics and Instrumentation,6.91,7.77,7.34
+25T1127,BISHESH SARKAR,Electronics and Telecommunication,7.41,7.27,7.34
+25E1052,RAGHAV MISHRA,Electronics and Instrumentation,7.36,7.32,7.34
+25T1020,BALJEE CHATURVEDI,Electronics and Telecommunication,7.73,6.91,7.32
+25C1015,ASHISH RAGHUWANSHI,Computer Science,6.95,7.68,7.31
+25T1021,BHAVANSH RATHORE,Electronics and Telecommunication,6.77,7.86,7.31
+25T1029,DHRUV SAXENA,Electronics and Telecommunication,7.68,6.95,7.31
+25T1009,ANEET JAISWAL,Electronics and Telecommunication,6.73,7.86,7.29
+25T1056,PRUTHA PATHAK,Electronics and Telecommunication,7.0,7.59,7.29
+25B1051,REVA NIMGAONKAR,Computer Science Business Studies,7.32,7.27,7.29
+25T1161,ROHAN GOYAL,Electronics and Telecommunication,7.41,7.18,7.29
+25T1065,SMRATI SAHU,Electronics and Telecommunication,7.23,7.36,7.29
+25T1154,PRATIK MARKAM,Electronics and Telecommunication,7.14,7.41,7.28
+25C1104,ABHISHEK SHARMA,Computer Science,6.95,7.59,7.27
+25T1170,TANVEER KHAN,Electronics and Telecommunication,6.68,7.86,7.27
+25T1172,VIKASH PATIDAR,Electronics and Telecommunication,7.27,7.23,7.25
+25C1022,CHETAN DESHMUKH,Computer Science,7.23,7.23,7.23
+25C1010,SANSKRITI GUPTA,Computer Science,7.41,7.05,7.23
+25V1010,ANUSHREE VAIDYA,Civil,8.09,6.36,7.22
+25V1031,KHUSHI SHARMA,Civil,6.95,7.5,7.22
+25E1077,YASH SEN,Electronics and Instrumentation,8.0,6.45,7.22
+25T1003,ADITYA MALVIYA,Electronics and Telecommunication,7.68,6.73,7.21
+25C1020,AYUSH MALVIYA,Computer Science,7.36,7.05,7.21
+25E1040,MANASHVI KHAMKAR,Electronics and Instrumentation,7.09,7.32,7.21
+25V1063,SHUBH DUBEY,Civil,7.5,6.91,7.21
+25I1072,SUMIT GOUR,Information Technology,8.23,6.18,7.21
+25E1071,VARDHNAM YADAV,Electronics and Instrumentation,6.41,8.0,7.21
+25E1036,KAVYA GOYAL,Electronics and Instrumentation,7.64,6.73,7.19
+25I1071,STUTI SAHU,Information Technology,7.23,7.14,7.19
+25T1152,PRAKHAR BANDI,Electronics and Telecommunication,7.18,7.18,7.18
+25C1076,VEDIKA WADGAONKAR,Computer Science,7.18,7.18,7.18
+25C1160,PREM MALAKAR,Computer Science,6.73,7.59,7.16
+25T1057,RAKSHIT PRAJAPAT,Electronics and Telecommunication,7.09,7.23,7.16
+25C1102,ABHAY MAHOR,Computer Science,7.55,6.73,7.14
+25M1060,PURTI JAIN,Mechanical,7.14,,7.14
+25I1016,CHANDRESH AHIRWAR,Information Technology,7.59,6.68,7.13
+25B1068,MUDIT PUROHIT,Computer Science Business Studies,6.77,7.5,7.13
+25T1077,VAIBHAV PRAJAPATI,Electronics and Telecommunication,7.32,6.95,7.13
+25V1076,YASHASVINI SHARMA,Civil,7.59,6.68,7.13
+25B1037,OM PATEL,Computer Science Business Studies,7.82,6.41,7.12
+25T1121,ARPIT BHATT,Electronics and Telecommunication,6.95,7.27,7.11
+25B1010,ANUJ NEEKHRA,Computer Science Business Studies,7.14,7.05,7.09
+25V1048,PRIYA PANIKA,Civil,7.55,6.64,7.09
+25I1004,AJITESH MEENA,Information Technology,6.5,7.64,7.07
+25T1116,ALOK KUMAR JAISWAL,Electronics and Telecommunication,6.55,7.59,7.07
+25B1174,JAYANT JODHWANI,Computer Science Business Studies,6.59,7.55,7.07
+25I1158,SAANVI MISHRA,Information Technology,7.09,7.05,7.07
+25I1073,SURAJ BHAWSAR,Information Technology,7.09,7.05,7.07
+25T1146,KABIR YADAV,Electronics and Telecommunication,6.36,7.77,7.06
+25E1035,KASHISH ERAPACHE,Electronics and Instrumentation,7.27,6.86,7.06
+25I1108,AJEET JAIN,Information Technology,7.41,6.68,7.04
+25E1078,YASH TIWARI,Electronics and Instrumentation,7.14,6.95,7.04
+25B1074,AAYUSH TUTEJA,Computer Science Business Studies,6.64,7.41,7.03
+25C1127,BHINI JAIN,Computer Science,7.14,6.91,7.03
+25E1057,SAKSHI THAKUR,Electronics and Instrumentation,6.32,7.73,7.03
+25V1006,AMAN CHANDEL,Civil,6.86,7.18,7.02
+25V1022,HARSH SINGH TOMAR,Civil,7.45,6.55,7.0
+25I1028,KANHA RAGHUWANSHI,Information Technology,6.5,7.5,7.0
+25T1114,AKSHAT KUMAR GEETE,Electronics and Telecommunication,7.23,6.73,6.98
+25I1136,MUSKAN LODHI,Information Technology,7.14,6.82,6.98
+25T1050,NIKITA DODWE,Electronics and Telecommunication,7.14,6.82,6.98
+25I1049,PIYUSH VERMA,Information Technology,7.23,6.73,6.98
+25I1180,YUVRAJ JARHOLIYA,Information Technology,6.91,7.05,6.98
+25I1115,ARYAN SAHU,Information Technology,7.18,6.77,6.97
+25T1163,SAHIL YEDE,Electronics and Telecommunication,7.18,6.77,6.97
+25B1042,PIYUSH SALVE,Computer Science Business Studies,6.55,7.36,6.96
+25C1158,PRASUN MASANIYA,Computer Science,7.14,6.77,6.96
+25M1012,ANURAG PAWAR,Mechanical,6.95,,6.95
+25M1045,NAGENDRA BANIYA,Mechanical,6.95,,6.95
+25I1126,HARSHIKA SANTOSH PATIDAR,Information Technology,7.05,6.82,6.94
+25B1129,KAUSTUV SHARMA,Computer Science Business Studies,7.14,6.73,6.94
+25T1032,EKTA BARE,Electronics and Telecommunication,7.0,6.86,6.93
+25C1141,JAYESH SHASTRI,Computer Science,7.5,6.36,6.93
+25T1075,SANIDHYA JAISWAL,Electronics and Telecommunication,6.91,6.95,6.93
+25T1068,SHARAD RAGHUWANSHI,Electronics and Telecommunication,6.59,7.27,6.93
+25E1019,ATUL SINGH,Electronics and Instrumentation,7.05,6.77,6.91
+25V1043,PRADHUMNA SHARMA,Civil,7.77,6.05,6.91
+25I1170,SIDDHARTH BELWANSHI,Information Technology,7.0,6.82,6.91
+25T1012,ANSHUL SHILPKAR,Electronics and Telecommunication,6.73,7.0,6.87
+25E1044,NAMAN KUMAR SAKET,Electronics and Instrumentation,6.86,6.86,6.86
+25C1103,ABHI NAIK,Computer Science,6.82,6.86,6.84
+25T1041,KUSHAL AGRAWAL,Electronics and Telecommunication,6.73,6.95,6.84
+25C1023,CHITRANSH BUCHADE,Computer Science,7.14,6.5,6.82
+25C1132,DIVYANSH SINGH PARIHAR,Computer Science,6.91,6.73,6.82
+25C1037,KANISHQ VYAS,Computer Science,7.0,6.64,6.82
+25B1032,MITANSH JAIN,Computer Science Business Studies,6.18,7.41,6.79
+25T1119,ANULOMA WANKHEDE,Electronics and Telecommunication,6.64,6.91,6.78
+25I1013,ABHAY CHAURASIYA,Information Technology,6.27,7.27,6.77
+25T1019,AVANI UPADHYAY,Electronics and Telecommunication,7.18,6.36,6.77
+25C1021,BHANOO PRATAP,Computer Science,6.45,7.09,6.77
+25M1024,DIVYANSHI VAISHNAV,Mechanical,6.77,,6.77
+25B1001,AADEESH JAIN,Computer Science Business Studies,6.32,7.18,6.75
+25V1024,JATIN MALVIYA,Civil,7.09,6.41,6.75
+25I1143,PARV JAIN,Information Technology,7.05,6.45,6.75
+25T1157,RAHUL RAJURKAR,Electronics and Telecommunication,6.95,6.55,6.75
+25T1171,VED PRATAP SINGH,Electronics and Telecommunication,5.86,7.64,6.75
+25M1009,ANANT SINGH RAJAWAT,Mechanical,6.73,,6.73
+25B1169,YASH SHARMA,Computer Science Business Studies,6.55,6.91,6.73
+25T1139,KANISHK MANGROLIYA,Electronics and Telecommunication,6.59,6.86,6.72
+25T1145,NAMAN SHARMA,Electronics and Telecommunication,6.05,7.36,6.71
+25E1065,TANMAY JAIN,Electronics and Instrumentation,6.32,7.05,6.69
+25T1002,ABHIJEET SOLANKI,Electronics and Telecommunication,6.18,7.18,6.68
+25M1003,ADITI SAHU,Mechanical,6.68,,6.68
+25M1004,ADITYA CHAURASIYA,Mechanical,6.68,,6.68
+25M1018,AYUSH SAHU,Mechanical,6.68,,6.68
+25B1066,YASH JAIN,Computer Science Business Studies,6.86,6.5,6.68
+25C1039,LIZA BHAGAT,Computer Science,6.82,6.5,6.66
+25B1148,RISHIKA VERMA,Computer Science Business Studies,6.09,7.23,6.66
+25I1062,SHIVANSHU PRAJAPATI,Information Technology,7.18,6.14,6.66
+25E1066,TUSHAR RATHORE,Electronics and Instrumentation,6.86,6.45,6.66
+25C1131,DEVISHARAN SHAKYA,Computer Science,6.64,6.64,6.64
+25M1065,RINKU PARMAR,Mechanical,6.64,,6.64
+25I1181,AASHI MISHRA,Information Technology,6.91,6.36,6.63
+25I1164,SARTHAK PATIDAR,Information Technology,6.77,6.5,6.63
+25E1021,BHARAT VERMA,Electronics and Instrumentation,7.05,6.18,6.62
+25I1032,KSHITIJ MARAVI,Information Technology,7.09,6.14,6.62
+25M1001,AADIVYA KALME,Mechanical,6.59,,6.59
+25T1006,AMAN PATEL,Electronics and Telecommunication,7.14,6.05,6.59
+25C1128,DAKSHIKA BAGHEL,Computer Science,6.14,7.05,6.59
+25I1021,HARSH GUPTA,Information Technology,7.23,5.95,6.59
+25E1039,MAHI KHANDELWAL,Electronics and Instrumentation,6.45,6.73,6.59
+25E1049,POORVANG JAIN,Electronics and Instrumentation,6.73,6.45,6.59
+25B1065,VISHAKHA BHAWSAR,Computer Science Business Studies,6.27,6.91,6.59
+25B1008,ALAF SHEIKH,Computer Science Business Studies,6.64,6.5,6.57
+25I1162,SANIYA MEHRA,Information Technology,6.64,6.5,6.57
+25M1042,MANEET BHATIA,Mechanical,6.55,,6.55
+25I1014,BHAVESH RAJPUT,Information Technology,6.5,6.59,6.54
+25V1013,BHUPENDRA VAISHYA,Civil,7.91,5.18,6.54
+25C1061,SHIV MANGAL DIXIT,Computer Science,6.14,6.95,6.54
+25T1038,KRISHNA KUMAR TIWARI,Electronics and Telecommunication,6.41,6.64,6.53
+25I1161,SANDEEP DEVKA,Information Technology,6.32,6.73,6.53
+25M1011,ANUJ YEDLE,Mechanical,6.5,,6.5
+25C1125,AYUSH PANT,Computer Science,6.73,6.27,6.5
+25C1028,GAURAV MUKATI,Computer Science,6.68,6.32,6.5
+25I1023,HARSH VERMA,Information Technology,6.77,6.23,6.5
+25I1129,JAYANT MANDLOI,Information Technology,6.45,6.55,6.5
+25B1043,PRAKRAT PORWAL,Computer Science Business Studies,6.32,6.68,6.5
+25B1046,RACHIYATA PATEL,Computer Science Business Studies,6.0,7.0,6.5
+25V1061,SEJAL SOMKUWAR,Civil,6.5,6.5,6.5
+25B1176,TEJASWINI TIWARI,Computer Science Business Studies,5.86,7.14,6.5
+25C1003,ABHISHEK SHARMA,Computer Science,6.68,6.23,6.46
+25I1122,DEEPANSHU VANCHHODE,Information Technology,7.0,5.91,6.46
+25B1167,VANSHITA KALYANE,Computer Science Business Studies,5.86,7.05,6.46
+25M1007,AKUL GURJAR,Mechanical,6.45,,6.45
+25M1025,DRASHTI PATEL,Mechanical,6.45,,6.45
+25B1030,MEDHANSH RAI,Computer Science Business Studies,6.77,6.05,6.41
+25M1058,PRIYANSH DHAKAD,Mechanical,6.41,,6.41
+25B1057,SHARREN RAM,Computer Science Business Studies,5.27,7.55,6.41
+25C1063,SHIVAM SHARMA,Computer Science,6.55,6.27,6.41
+25E1030,JAYDITYA SINGH PARMAR,Electronics and Instrumentation,6.45,6.32,6.38
+25C1101,AASHIKA JAIN,Computer Science,6.55,6.18,6.37
+25B1114,ARMAN KHAN,Computer Science Business Studies,6.41,6.32,6.37
+25T1015,ARNAV AGRAWAL,Electronics and Telecommunication,5.59,7.14,6.37
+25B1121,BHUMIKA RATHORE,Computer Science Business Studies,5.82,6.91,6.37
+25B1069,PARI SOLANKI,Computer Science Business Studies,5.91,6.82,6.37
+25I1174,UMANG AGRAWAL,Information Technology,6.32,6.41,6.37
+25T1108,ADITYA SAVALE,Electronics and Telecommunication,5.95,6.73,6.34
+25E1047,PANKAJ GOYAL,Electronics and Instrumentation,6.23,6.45,6.34
+25I1148,PREETI MANDLOI,Information Technology,6.45,6.23,6.34
+25B1150,SHIVANI,Computer Science Business Studies,6.5,6.18,6.34
+25B1164,TANISHK DHAKAD,Computer Science Business Studies,6.0,6.68,6.34
+25E1002,AADITYA CHAURASIA,Electronics and Instrumentation,6.32,6.32,6.32
+25T1125,BHAVYA SINGH RATHOD,Electronics and Telecommunication,6.23,6.41,6.32
+25B1018,DEVYANSH AKKAL,Computer Science Business Studies,5.41,7.23,6.32
+25C1036,KAJAL RAWAT,Computer Science,6.82,5.82,6.32
+25E1046,NITESH MALI,Electronics and Instrumentation,6.73,5.91,6.32
+25M1051,PARAS PATEL,Mechanical,6.32,,6.32
+25M1070,SHIVAKANT TIWARI,Mechanical,6.32,,6.32
+25B1160,SURYANSH CHOUKSEY,Computer Science Business Studies,6.73,5.91,6.32
+25V1070,VAIDIK KANESH,Civil,6.41,6.23,6.32
+25I1144,PIYUSH URWETI,Information Technology,6.27,6.36,6.31
+25C1120,ARJUN AKHADIYA,Computer Science,6.95,5.64,6.29
+25B1015,AVEER SHAKYA,Computer Science Business Studies,6.09,6.5,6.29
+25C1123,AYUSH JAIN,Computer Science,6.45,6.14,6.29
+25V1020,GAURAV DHAKAR,Civil,6.95,5.64,6.29
+25B1141,PRABHAS SHARMA,Computer Science Business Studies,6.91,5.68,6.29
+25V1053,RISHIRAJ CHANPURIYA,Civil,7.14,5.45,6.29
+25I1058,SACHIN YADAV,Information Technology,6.86,5.73,6.29
+25T1014,ANUNAY RANGARI,Electronics and Telecommunication,6.23,6.32,6.28
+25C1144,KRISHNA WASKALE,Computer Science,6.23,6.32,6.28
+25I1029,KESHAV PATIDAR,Information Technology,6.86,5.68,6.27
+25M1038,KULDEEP JAISWAL,Mechanical,6.27,,6.27
+25E1007,AGRATA CHATURVEDI,Electronics and Instrumentation,6.45,6.05,6.25
+25I1140,NISHA WASKALE,Information Technology,6.14,6.36,6.25
+25I1047,PALAK JATAV,Information Technology,5.55,6.95,6.25
+25T1066,SARTHAK KUMAR,Electronics and Telecommunication,5.95,6.55,6.25
+25E1072,VARMA MAYANK,Electronics and Instrumentation,6.36,6.14,6.25
+25M1036,KARTIKEYA SHRIVASTAVA,Mechanical,6.23,,6.23
+25M1061,RANJIT SINGH,Mechanical,6.23,,6.23
+25V1064,SOURABH SINGH,Civil,6.23,6.23,6.23
+25T1174,VINAY RATHORE,Electronics and Telecommunication,6.41,6.05,6.23
+25C1179,VIDIT PARMAR,Computer Science,5.68,6.77,6.22
+25I1165,SHEETAL HATILA,Information Technology,6.64,5.73,6.19
+25B1045,PRATHAM YADAV,Computer Science Business Studies,5.64,6.68,6.16
+25E1061,SHEIKH MOHD RAFE,Electronics and Instrumentation,7.09,5.23,6.16
+25C1178,TANMAY SILAWAT,Computer Science,5.77,6.55,6.16
+25B1002,AADHYANTEE KULKARNI,Computer Science Business Studies,6.23,6.05,6.14
+25B1119,AYAAN ALI,Computer Science Business Studies,5.73,6.55,6.14
+25M1027,GOLU BAGHEL,Mechanical,6.14,,6.14
+25V1065,SUNDARAM PANDEY,Civil,6.73,5.55,6.14
+25I1102,AARYAN DAWAR,Information Technology,5.86,6.41,6.13
+25I1120,BHAVISHYA MANGAL,Information Technology,7.41,4.86,6.13
+25V1075,YASH CHOUDHARY,Civil,5.82,6.45,6.13
+25E1028,HARSH PATEL,Electronics and Instrumentation,6.64,5.59,6.12
+25T1155,PRINCE GULBASE,Electronics and Telecommunication,6.73,5.5,6.12
+25I1065,SHUBHAM GOUTAM,Information Technology,6.14,6.09,6.12
+25M1010,ANIKA MAHAJAN,Mechanical,6.09,,6.09
+25B1115,ARPIT DANDHARE,Computer Science Business Studies,5.86,6.32,6.09
+25V1044,PRAPHULL BHAGAT,Civil,6.36,5.82,6.09
+25I1070,SRAJAL MALVIYA,Information Technology,6.91,5.27,6.09
+25V1069,UDAY SHAH,Civil,6.45,5.73,6.09
+25T1109,ADITYA SHRIVASTAVA,Electronics and Telecommunication,5.59,6.55,6.07
+25C1008,JAYESH CHOUHAN,Computer Science,5.36,6.77,6.06
+25B1104,ABHIRAJ DHADDHA,Computer Science Business Studies,5.77,6.32,6.04
+25B1170,YASHVARDHAN PATIDAR,Computer Science Business Studies,5.91,6.14,6.03
+25T1040,KUSHAGRA SHARMA,Electronics and Telecommunication,6.86,5.18,6.02
+25C1044,PULKIT JAIN,Computer Science,6.27,5.77,6.02
+25M1016,AYUSH MISHRA,Mechanical,6.0,,6.0
+25B1041,PAYAL SUTHAR,Computer Science Business Studies,5.95,6.05,6.0
+25V1059,SANJU DANGI,Civil,6.23,5.77,6.0
+25I1056,SOUMYA SHRIVASTAV,Information Technology,6.68,5.32,6.0
+25B1165,UDAY YADAV,Computer Science Business Studies,5.68,6.32,6.0
+25B1166,VANSH ABROAL,Computer Science Business Studies,5.95,6.05,6.0
+25M1076,VIVEK ARGAL,Mechanical,6.0,,6.0
+25I1025,JAY MAHAWER,Information Technology,6.05,5.91,5.98
+25T1105,ADARSH KUMAR JATAV,Electronics and Telecommunication,6.32,5.59,5.96
+25T1156,RAHUL BADWAHE,Electronics and Telecommunication,5.73,6.18,5.96
+25T1067,SATYAM JATAV,Electronics and Telecommunication,6.0,5.91,5.96
+25I1055,RISHABH SATARE,Information Technology,6.0,5.82,5.91
+25T1138,KANISHK DWIVEDI,Electronics and Telecommunication,5.91,5.86,5.88
+25T1106,ADITYA BANDU AKHARE,Electronics and Telecommunication,6.14,5.59,5.87
+25E1060,SHEIKH ARASHAD,Electronics and Instrumentation,6.82,4.91,5.87
+25B1162,SUYASH PARASHAR,Computer Science Business Studies,5.18,6.55,5.87
+25M1032,HATIM TAJ BUILDINGWALA,Mechanical,5.86,,5.86
+25T1130,SAMRADDHI TIROLE,Electronics and Telecommunication,6.36,5.32,5.84
+25I1154,RIDHAM PATEL,Information Technology,6.0,5.64,5.82
+25C1079,YASHVANT KUMAR MARAVI,Computer Science,5.5,6.14,5.82
+25C1166,ROODEEPI BANSOD,Computer Science,6.09,5.5,5.79
+25C1019,AYUSH GHANGHAURIYA,Computer Science,6.5,5.05,5.78
+25I1151,RAJAS PURANIK,Information Technology,6.36,5.18,5.77
+25I1059,SAHARSH NEEMA,Information Technology,6.18,5.36,5.77
+25M1069,SARTHAK SHUKLA,Mechanical,5.77,,5.77
+25M1072,SHRAVANI DHAGE,Mechanical,5.77,,5.77
+25I1106,ADITYA JAIN,Information Technology,5.59,5.91,5.75
+25T1107,ADITYA KUMAR KOUSHAL,Electronics and Telecommunication,5.95,5.55,5.75
+25V1007,ANKIT TYAGI,Civil,4.55,6.95,5.75
+25C1072,SUR DOSHI,Computer Science,6.09,5.41,5.75
+25T1123,ASHISH KUMAR PRAJAPATI,Electronics and Telecommunication,6.41,5.05,5.73
+25B1116,ATHARV PORWAL,Computer Science Business Studies,5.32,6.14,5.73
+25T1117,ARNAV SINHAL,Electronics and Telecommunication,6.23,5.18,5.71
+25I1153,RANVIR SINGH GANDHI,Information Technology,6.14,5.27,5.71
+25V1054,ROHIT MAIDA,Civil,5.73,5.64,5.69
+25M1040,LAKSHYA CHOUHAN,Mechanical,5.68,,5.68
+25I1040,MRIDUL NAMA,Information Technology,5.68,5.68,5.68
+25V1060,SANVI SAXENA,Civil,5.77,5.59,5.68
+25B1109,AMEY GAURHAR,Computer Science Business Studies,6.14,5.18,5.66
+25E1013,ANSHUL MEHRA,Electronics and Instrumentation,5.0,6.32,5.66
+25I1123,DHERYA PANDEY,Information Technology,6.09,5.23,5.66
+25C1030,HARISH JAYPALE,Computer Science,4.45,6.86,5.66
+25T1055,PRAVEEN BHUSARE,Electronics and Telecommunication,6.18,5.14,5.66
+25B1127,VEDANT AGRAWAL,Computer Science Business Studies,4.73,6.59,5.66
+25I1101,AARIZ IQBAL,Information Technology,4.14,7.14,5.64
+25C1156,PRAKHAR SHARMA,Computer Science,6.23,5.05,5.64
+25C1018,AYUSH AJMERI,Computer Science,5.18,6.09,5.63
+25B1070,GUNJAN SAGAR,Computer Science Business Studies,5.0,6.27,5.63
+25C1009,AMAN CHAUDHARY,Computer Science,5.91,5.32,5.62
+25I1127,HIMANSHI KORI,Information Technology,6.05,5.18,5.62
+25E1056,SAHIL SINGH CHAUHAN,Electronics and Instrumentation,5.36,5.86,5.61
+25B1061,SUBAHAAN BILAL,Computer Science Business Studies,5.45,5.77,5.61
+25I1003,AJAY PAL,Information Technology,5.09,6.05,5.57
+25C1135,HARSHAL PATEL,Computer Science,6.0,5.14,5.57
+25C1136,HARSHWARDHAN DOLEKAR,Computer Science,5.64,5.5,5.57
+25B1072,ISHA KUMBHKAR,Computer Science Business Studies,4.5,6.64,5.57
+25C1140,JAY BARASKER,Computer Science,6.05,5.09,5.57
+25C1048,PRANAY SOLANKI,Computer Science,4.5,6.64,5.57
+25B1047,RAKSHIT SHRIVASTAVA,Computer Science Business Studies,5.77,5.36,5.56
+25M1029,GOUTAM BHABAR,Mechanical,5.55,,5.55
+25V1002,MRADUL SHARMA,Civil,5.73,5.36,5.54
+25T1053,PARTH CHOUKIKAR,Electronics and Telecommunication,5.27,5.77,5.52
+25B1063,TANISHQ HARDIYA,Computer Science Business Studies,4.09,6.91,5.5
+25V1066,TARUN LIMANPURE,Civil,6.09,4.91,5.5
+25B1177,JAYESH BHATIA,Computer Science Business Studies,4.59,6.32,5.46
+25B1134,LALIT KARAN,Computer Science Business Studies,5.14,5.77,5.46
+25T1046,MONIKA SINGH,Electronics and Telecommunication,6.05,4.82,5.44
+25T1110,ADITYA SINGH RAJPUT,Electronics and Telecommunication,6.5,4.32,5.41
+25C1139,JAI MANJHI,Computer Science,5.45,5.36,5.41
+25M1054,PRAVEEN JHARBADE,Mechanical,5.41,,5.41
+25T1158,RANJEET SITOLE,Electronics and Telecommunication,5.0,5.82,5.41
+25B1106,ADITYA RAGHUWANSHI,Computer Science Business Studies,4.45,6.32,5.38
+25B1020,GEHNA BHAWSAR,Computer Science Business Studies,4.91,5.82,5.37
+25E1031,KAISHAV MAHAWAR,Electronics and Instrumentation,5.73,5.0,5.37
+25C1147,LAVISH AKHAND,Computer Science,5.14,5.59,5.37
+25C1073,SWAPNIL CHOURASIYA,Computer Science,5.5,5.23,5.37
+25M1005,ADITYA KUMAWAT,Mechanical,5.36,,5.36
+25M1066,RISHIKESH RATHOD,Mechanical,5.36,,5.36
+25E1033,KAPISH GOYAL,Electronics and Instrumentation,5.45,5.23,5.34
+25E1058,SARTHAK SOMTIYA,Electronics and Instrumentation,5.73,4.95,5.34
+25B1163,TANAY PATIDAR,Computer Science Business Studies,5.32,5.36,5.34
+25M1015,ASHUTOSH THAKURIYA,Mechanical,5.32,,5.32
+25M1064,RAVI PARMAR,Mechanical,5.32,,5.32
+25T1167,SIDDHARTH DANGI THAKUR,Electronics and Telecommunication,6.59,4.05,5.32
+25E1015,ARPAN BAJPAI,Electronics and Instrumentation,4.77,5.86,5.31
+25B1024,HARSHUL CHATURVEDI,Computer Science Business Studies,5.77,4.82,5.29
+25T1062,SAHIL SUNHARE,Electronics and Telecommunication,5.09,5.5,5.29
+25C1145,KSHITIJ JOY MANOHAR,Computer Science,6.23,4.32,5.28
+25B1152,SHUBHANK DHOTE,Computer Science Business Studies,5.55,5.0,5.28
+25C1013,ANUJ RAJA PARMAR,Computer Science,5.95,4.59,5.27
+25M1039,KULDEEP SINGH CHAWDA,Mechanical,5.27,,5.27
+25V1037,NEELIMA DHURVE,Civil,5.18,5.36,5.27
+25M1049,NISHANT DONADKAR,Mechanical,5.27,,5.27
+25I1114,ARUSH VERMA,Information Technology,6.05,4.45,5.25
+25B1175,SUYASH GUPTA,Computer Science Business Studies,5.18,5.32,5.25
+25B1004,AANCHAL PATIDAR,Computer Science Business Studies,6.05,4.41,5.23
+25I1027,KABIR CHHAJLANI,Information Technology,5.41,5.05,5.23
+25M1041,MAHESH CHOUHAN,Mechanical,5.23,,5.23
+25M1053,PRATISTHA WASKEL,Mechanical,5.23,,5.23
+25B1073,SANVI SHARMA,Computer Science Business Studies,4.64,5.82,5.23
+25V1074,YASH AGRAWAL,Civil,4.64,5.82,5.23
+25V1027,KAMNA SINGH GOUND,Civil,4.77,5.68,5.22
+25T1017,ARYAN TRIPATHI,Electronics and Telecommunication,5.41,5.0,5.21
+25B1056,SAMEER HIRVE,Computer Science Business Studies,4.64,5.73,5.19
+25B1156,SOURABH TIWARI,Computer Science Business Studies,5.14,5.23,5.19
+25C1129,DEV PRATAP SINGH NINAMA,Computer Science,5.86,4.5,5.18
+25T1180,NAVEEN PATEL,Electronics and Telecommunication,5.45,4.91,5.18
+25V1057,SANDHYA PARTETI,Civil,5.77,4.59,5.18
+25C1118,ANSHUMAN SHUKLA,Computer Science,7.77,2.55,5.16
+25V1018,DIVYANSHI MAURYA,Civil,5.59,4.73,5.16
+25I1076,TANMAY KACHHWAHE,Information Technology,5.82,4.5,5.16
+25C1012,ANUJ KUMRE,Computer Science,4.73,5.55,5.14
+25M1017,AYUSH MISHRA,Mechanical,5.14,,5.14
+25C1047,NISHA THAKRE,Computer Science,6.32,3.95,5.13
+25B1159,SUMIT VASAVE,Computer Science Business Studies,5.32,4.91,5.12
+25I1075,TANISHQ BOBDE,Information Technology,4.91,5.32,5.12
+25E1016,ARPIT RATHORE,Electronics and Instrumentation,6.45,3.77,5.11
+25B1014,AUGUST MISHRA,Computer Science Business Studies,4.77,5.45,5.11
+25I1176,VEDANT MALVIYA,Information Technology,4.77,5.45,5.11
+25M1019,BHAVISHYA BILLORE,Mechanical,5.09,,5.09
+25C1034,HIMESH KORI,Computer Science,4.68,5.5,5.09
+25V1033,KUMKUM WASKEL,Civil,5.0,5.18,5.09
+25M1077,YATHARTH ANAND,Mechanical,5.09,,5.09
+25C1107,ADITYA DHANGAR,Computer Science,5.23,4.91,5.07
+25V1015,ANUJ PATEL,Civil,5.05,5.09,5.07
+25I1044,NIHAL PARTETI,Information Technology,5.41,4.73,5.07
+25B1005,ABDULLAH KHIZER,Computer Science Business Studies,5.18,4.95,5.06
+25I1178,VIKASH KUMAR JATAV,Information Technology,5.18,4.95,5.06
+25M1037,KAVYANJALI JAIN,Mechanical,5.05,,5.05
+25M1073,SOUMY YADAV,Mechanical,5.05,,5.05
+25E1050,PRADEEP NAGAR,Electronics and Instrumentation,5.64,4.45,5.04
+25I1017,DEEPAK AHIRWAR,Information Technology,5.91,4.09,5.0
+25B1137,MOHAMMAD HANIF MUGAL,Computer Science Business Studies,5.23,4.73,4.98
+25I1057,ROHIT DAMADE,Information Technology,6.41,3.55,4.98
+25V1039,OM DHAKRE,Civil,6.18,3.77,4.97
+25I1135,MOHIT MEENA,Information Technology,4.55,5.36,4.96
+25T1023,BHUPENDRA PARMAR,Electronics and Telecommunication,5.09,4.77,4.93
+25V1055,ROSHNI JADHAV,Civil,4.95,4.91,4.93
+25C1168,SAKSHI RAYKUNVAR,Computer Science,5.36,4.5,4.93
+25T1124,AYUSHI PARMAR,Electronics and Telecommunication,4.82,5.0,4.91
+25M1026,GEETANJALI BAIN,Mechanical,4.91,,4.91
+25M1028,GOURAV BANWASI,Mechanical,4.91,,4.91
+25B1149,SANJOG BILARWAN,Computer Science Business Studies,4.36,5.45,4.91
+25I1167,SHIVAM WASKEL,Information Technology,5.14,4.68,4.91
+25V1072,VANSHIKA CHOUHAN,Civil,4.91,4.91,4.91
+25B1076,AADITYA PAWAR,Computer Science Business Studies,4.32,5.41,4.87
+25I1109,AKARSH KOSHTI,Information Technology,5.23,4.5,4.87
+25T1112,AKHIL PREM PRAJAPATI,Electronics and Telecommunication,5.41,4.32,4.87
+25B1136,MANOGYA JAIN,Computer Science Business Studies,4.73,5.0,4.87
+25I1138,NIKHIL KHATRI,Information Technology,5.5,4.23,4.87
+25E1026,GOPAL SHARMA,Electronics and Instrumentation,4.95,4.77,4.86
+25V1023,JATIN LODWAL,Civil,5.23,4.45,4.84
+25T1176,VIVEK SHARMA,Electronics and Telecommunication,6.41,3.27,4.84
+25M1044,MOHANISH PARMAR,Mechanical,4.82,,4.82
+25M1071,SHIVYANSH LASHKARI,Mechanical,4.82,,4.82
+25E1068,UTKARSH PANDEY,Electronics and Instrumentation,5.23,4.41,4.82
+25M1048,NILESH CHOUHAN,Mechanical,4.77,,4.77
+25M1050,PANKAJ DHURVE,Mechanical,4.77,,4.77
+25B1123,DHRUV NAGAR,Computer Science Business Studies,5.41,4.09,4.75
+25B1021,GOURAV RATHOD,Computer Science Business Studies,5.23,4.27,4.75
+25T1018,ASHISH AHIRWAR,Electronics and Telecommunication,5.91,3.55,4.73
+25B1124,HARSHIT SHARMA,Computer Science Business Studies,3.05,6.41,4.73
+25M1067,RITIKA SHARMA,Mechanical,4.73,,4.73
+25M1075,VIKAS LODHI,Mechanical,4.73,,4.73
+25B1071,MUDIT DAGOR,Computer Science Business Studies,3.59,5.86,4.72
+25B1006,ABHISHEK VERMA,Computer Science Business Studies,3.77,5.64,4.71
+25I1152,RAJNEESH SINGH,Information Technology,4.86,4.55,4.71
+25T1144,MAYANK MEENA,Electronics and Telecommunication,5.05,4.32,4.69
+25I1005,HARDIK BHAVNANI,Information Technology,4.45,4.91,4.68
+25M1031,HARSH GAJBHIYE,Mechanical,4.68,,4.68
+25E1032,KANAK PARMAR,Electronics and Instrumentation,5.36,4.0,4.68
+25E1022,ARPIT PARMAR,Electronics and Instrumentation,4.77,4.5,4.63
+25V1067,TARUN SINGH,Civil,5.59,3.68,4.63
+25B1112,ANSHIKA TIWARI,Computer Science Business Studies,4.82,4.41,4.62
+25I1048,PAVITRA MEGHWAL,Information Technology,7.18,2.05,4.62
+25I1074,TANISHK SARIYAM,Information Technology,5.23,4.0,4.62
+25I1051,PRAGYA DAWAR,Information Technology,4.14,5.05,4.59
+25C1053,PURVESH KHODRIYA,Computer Science,6.32,2.82,4.57
+25C1146,LAKSHYDEEP KALE,Computer Science,4.64,4.45,4.54
+25T1128,CHAYAN KHER,Electronics and Telecommunication,3.41,5.64,4.53
+25B1108,AKARSH BAGRECHA,Computer Science Business Studies,5.55,3.45,4.5
+25M1008,AKUL SHARMA,Mechanical,4.5,,4.5
+25I1130,KUSHAL SINGH CHOUHAN,Information Technology,4.18,4.82,4.5
+25T1048,NAVEEN KUMAR TEKAM,Electronics and Telecommunication,4.05,4.91,4.48
+25T1008,ANEESH KUMAR,Electronics and Telecommunication,4.77,4.18,4.47
+25C1032,HARSHIT SIDDHARTH,Computer Science,4.27,4.68,4.47
+25C1155,PAYAL BHAIDIYA,Computer Science,5.18,3.77,4.47
+25I1113,ARINDAM SIDDH SHRIVASTAVA,Information Technology,5.68,3.23,4.46
+25E1024,DIKSHANT VERMA,Electronics and Instrumentation,5.5,3.41,4.46
+25T1059,RITESH GAUTAM,Electronics and Telecommunication,6.14,2.77,4.46
+25I1179,VIVEK SINGH,Information Technology,5.41,3.45,4.43
+25I1110,AKHILESH PARTE,Information Technology,4.59,4.23,4.41
+25I1030,KHUSHI AHIRWAR,Information Technology,4.95,3.86,4.41
+25C1170,SANJANA DALKE,Computer Science,4.64,4.14,4.39
+25I1042,NEVDHA KANUNGO,Information Technology,4.5,4.27,4.38
+25B1044,PRASHASHT PATEL,Computer Science Business Studies,4.27,4.41,4.34
+25I1156,RISHI PATEL,Information Technology,4.95,3.73,4.34
+25V1073,VIKASH DHAKAR,Civil,5.05,3.59,4.32
+25M1021,DEEPIKA MEENA,Mechanical,4.27,,4.27
+25I1107,ADVIN GEHLOT,Information Technology,3.77,4.73,4.25
+25T1135,DIVYANSH KUMAR HAJARIYA,Electronics and Telecommunication,5.41,3.09,4.25
+25B1012,ARYAN SHRIVASTAVA,Computer Science Business Studies,3.23,5.23,4.23
+25B1054,ROUNEET RAJ SINHA,Computer Science Business Studies,3.41,5.05,4.23
+25E1006,ADITYA DUBEPURIA,Electronics and Instrumentation,3.73,4.68,4.21
+25T1115,AKSHAT RAI,Electronics and Telecommunication,3.82,4.59,4.21
+25C1176,SRAJAL GONDANE,Computer Science,5.86,2.55,4.21
+25M1022,DIVYA NAGAR,Mechanical,4.18,,4.18
+25C1007,HARSHDEEP SINGH HORA,Computer Science,8.32,0.0,4.16
+25V1036,NAVEEN SINGH GURJAR,Civil,4.45,3.86,4.16
+25E1038,MAHENDRA WAGH,Electronics and Instrumentation,3.55,4.73,4.14
+25E1075,VINIT,Electronics and Instrumentation,3.73,4.55,4.14
+25T1131,DEVANSHI SAHARIYA,Electronics and Telecommunication,4.5,3.77,4.13
+25T1141,KSHITIZ MARSKOLE,Electronics and Telecommunication,4.91,3.36,4.13
+25T1149,NITIN CHOUHAN,Electronics and Telecommunication,5.41,2.86,4.13
+25M1002,AAYUSH DHURVE,Mechanical,4.09,,4.09
+25B1110,ANADI DUBEY,Computer Science Business Studies,2.64,5.55,4.09
+25I1134,MARUTINANDAN PATEL,Information Technology,3.91,4.27,4.09
+25T1166,SHANTANU WAGHMARE,Electronics and Telecommunication,4.36,3.82,4.09
+25C1172,SHUBHAM WASKEL,Computer Science,4.0,4.09,4.04
+25M1023,DIVYANSH DHAWAN,Mechanical,4.0,,4.0
+25T1136,DUSHYANT SHARMA,Electronics and Telecommunication,4.59,3.41,4.0
+25T1179,KESHAV AGRAWAL,Electronics and Telecommunication,3.73,4.27,4.0
+25C1042,MAYANK KUMAR DHURWEY,Computer Science,3.68,4.32,4.0
+25T1175,VISHESH JAIN,Electronics and Telecommunication,3.95,4.0,3.98
+25M1006,AHMAD RAZA KHOKAR,Mechanical,3.95,,3.95
+25M1068,SAMEER SHAKYA,Mechanical,3.95,,3.95
+25E1076,VISHNU THAKORIYA,Electronics and Instrumentation,3.91,3.95,3.93
+25M1063,RAVI GADRIYA,Mechanical,3.91,,3.91
+25E1055,RUDRA VERMA,Electronics and Instrumentation,3.32,4.5,3.91
+25B1125,HARSHRAJ JAIN,Computer Science Business Studies,3.14,4.64,3.89
+25T1039,KUNDAN MANDLOI,Electronics and Telecommunication,4.68,3.09,3.88
+25T1177,YUVRAJ SINGH PARMAR,Electronics and Telecommunication,4.41,3.27,3.84
+25T1004,ADITYA SINGH TANWAR,Electronics and Telecommunication,3.86,3.77,3.81
+25B1122,CHETAN PATIDAR,Computer Science Business Studies,5.18,2.45,3.81
+25V1025,HRITWHIZ SHARMA,Civil,4.68,2.95,3.81
+25V1003,AJAY SAHU,Civil,4.59,3.0,3.79
+25B1173,BHAVYA MAHESHWARI,Computer Science Business Studies,3.14,4.45,3.79
+25I1079,VEDANT MARKAM,Information Technology,4.5,3.09,3.79
+25T1044,MANTHAN DAWAR,Electronics and Telecommunication,4.36,3.14,3.75
+25C1005,ADEEBA MUNEER,Computer Science,4.86,2.59,3.73
+25M1020,CHINMAY BARSAIYAN,Mechanical,3.73,,3.73
+25V1071,VANSH GUPTA,Civil,3.95,3.45,3.7
+25I1001,AAYUSH PANWAR,Information Technology,4.41,2.95,3.68
+25M1057,PRIYANSH BHALAVI,Mechanical,3.68,,3.68
+25T1043,MANTHAN CHHARI,Electronics and Telecommunication,5.27,2.05,3.66
+25M1013,ARADHYA BHAWSAR,Mechanical,3.59,,3.59
+25C1016,ASHWIN MARSKOLE,Computer Science,3.45,3.73,3.59
+25I1080,VIJAY BHABAR,Information Technology,3.77,3.41,3.59
+25I1172,SURYANSH KHARE,Information Technology,4.64,2.5,3.57
+25C1046,NAVEEN BARE,Computer Science,3.86,3.27,3.56
+25T1028,DEVENDRA MOGIYA,Electronics and Telecommunication,4.86,2.14,3.5
+25I1131,LAKSHYA CHHABRA,Information Technology,7.0,0.0,3.5
+25M1059,PRIYANSH GUJRATI,Mechanical,3.5,,3.5
+25B1049,RASHIK PATEL,Computer Science Business Studies,2.5,4.45,3.48
+25I1125,DIPESH PATIL,Information Technology,3.73,3.14,3.44
+25T1030,DISHANT PATIDAR,Electronics and Telecommunication,3.41,3.45,3.43
+25E1004,AAYUSH SHAKYA,Electronics and Instrumentation,3.73,3.05,3.39
+25B1138,MRIDUL RAJ SINGH JHALA,Computer Science Business Studies,2.45,4.32,3.39
+25I1038,MOHIT SHARMA,Information Technology,3.23,3.5,3.37
+25T1033,HARSH SURYAWANSHI,Electronics and Telecommunication,3.73,2.95,3.34
+25B1128,JALAJ MITHORIYA,Computer Science Business Studies,2.45,4.23,3.34
+25M1034,JAYDEV VERMA,Mechanical,3.32,,3.32
+25B1133,KUSHAL MARMAT,Computer Science Business Studies,2.23,4.32,3.28
+25B1140,OM DAKHOLE,Computer Science Business Studies,3.86,2.68,3.27
+25I1012,AYUSH SHARMA,Information Technology,3.18,3.32,3.25
+25C1113,SHIVANG CHATURVEDI,Computer Science,3.73,2.73,3.23
+25T1026,DEEPAK CHOUHAN,Electronics and Telecommunication,3.09,3.36,3.22
+25I1039,MONIT CHONGAD,Information Technology,4.68,1.68,3.18
+25C1163,RAJ PRAJAPATI,Computer Science,1.68,4.64,3.16
+25M1014,ARYA SHUKLA,Mechanical,3.09,,3.09
+25V1068,TUSHAR YADAV,Civil,4.64,1.55,3.09
+25B1067,YATHARTH RASANIYA,Computer Science Business Studies,1.68,4.5,3.09
+25V1011,AKARVI PATIL,Civil,4.32,1.82,3.07
+25I1035,MANISH KUMAR NARRETI,Information Technology,2.68,3.36,3.02
+25E1064,SWAPNIL VERMA,Electronics and Instrumentation,2.73,3.32,3.02
+25E1041,MANDEEP MALVIYA,Electronics and Instrumentation,2.59,3.41,3.0
+25T1132,DILEEP AHIRWAR,Electronics and Telecommunication,5.95,0.0,2.98
+25V1038,NIMESH CHOUDHARY,Civil,4.18,1.77,2.97
+25T1005,AJAY SINGH,Electronics and Telecommunication,2.91,2.91,2.91
+25V1014,PRATHAM HIRWANI,Civil,3.55,2.23,2.89
+25B1040,PAYAL JATAV,Computer Science Business Studies,2.27,3.5,2.88
+25E1027,HARSH KANWAR,Electronics and Instrumentation,2.36,3.36,2.86
+25T1164,SANJEET AHIRWAR,Electronics and Telecommunication,3.27,2.41,2.84
+25I1067,SIDDHARTH JAIN,Information Technology,5.64,0.0,2.82
+25T1173,VIKASH SINGH,Electronics and Telecommunication,3.14,2.45,2.79
+25C1033,HIMANSHU DESHMUKH,Computer Science,3.55,2.0,2.77
+25B1059,SHIVAM GUPTA,Computer Science Business Studies,2.05,3.5,2.77
+25B1139,NAMRATA BANSODE,Computer Science Business Studies,2.41,3.05,2.73
+25B1052,RISHI PATEL,Computer Science Business Studies,2.95,2.36,2.66
+25B1171,YUVRAJ SONI,Computer Science Business Studies,2.32,3.0,2.66
+25T1168,SOYAM NIKKAM,Electronics and Telecommunication,2.82,2.36,2.59
+25M1043,MAYANK HARIYALE,Mechanical,2.45,,2.45
+25E1062,SHIVAM NOTIYA,Electronics and Instrumentation,1.82,2.95,2.39
+25M1047,NILESH AHIRWAR,Mechanical,2.32,,2.32
+25E1069,UTSAV RAWAT,Electronics and Instrumentation,1.91,2.73,2.32
+25C1161,PRINCE MARATHA,Computer Science,3.14,1.45,2.29
+25M1033,JAHNVI VERMA,Mechanical,2.27,,2.27
+25M1056,PREM SEN,Mechanical,2.27,,2.27
+25B1007,ADITYA SITOLA,Computer Science Business Studies,0.91,3.59,2.25
+25E1067,UDAY THAWARE,Electronics and Instrumentation,1.68,2.73,2.21
+25E1042,MAYANK KUMAR RAIKWAL,Electronics and Instrumentation,2.0,2.32,2.16
+25V1035,MAYANK JAMRE,Civil,2.86,1.41,2.13
+25C1108,AKASH UIKEY,Computer Science,4.18,0.0,2.09
+25C1069,SOURABH JATAV,Computer Science,2.32,1.73,2.02
+25E1074,VINAY FARACLE,Electronics and Instrumentation,3.05,0.91,1.98
+25B1130,KRISHANA PATIDAR,Computer Science Business Studies,2.32,1.5,1.91
+25E1020,AVINASH SINGH SOLANKI,Electronics and Instrumentation,3.41,0.23,1.82
+25C1024,DAMINI UIKEY,Computer Science,1.45,2.0,1.73
+25B1058,SHIVAM DHAKAD,Computer Science Business Studies,2.0,1.32,1.66
+25B1151,SHOURYA RAWAT,Computer Science Business Studies,1.59,1.55,1.57
+25E1034,KARTIK RAIKWAR,Electronics and Instrumentation,1.41,1.68,1.54
+25I1054,RAVI CHOUHAN,Information Technology,3.0,0.0,1.5
+25B1147,RAM CHOUDHARY,Computer Science Business Studies,1.45,1.36,1.41
+25C1114,ANJALI LODHARE,Computer Science,1.41,1.23,1.32
+25B1019,DIVYANSH LAHORIYA,Computer Science Business Studies,1.41,1.0,1.21
+25B1025,SANDARBH DUBEY,Computer Science Business Studies,1.73,0.64,1.19
+25B1022,GOURAV YADAV,Computer Science Business Studies,0.95,1.27,1.11
+25V1040,PIYUSH KUMAR RAIDAS,Civil,2.09,0.0,1.04
+25B1053,RISHIT JAIN,Computer Science Business Studies,1.55,0.41,0.98
+25M1078,YOGESH PAWAR,Mechanical,0.82,,0.82
+25M1079,YUVRAJ SINGH SURYAWANSHI,Mechanical,0.73,,0.73
+25C1029,GOURAVRAJ SINGH PANWAR,Computer Science,0.91,0.36,0.64
+25I1133,LUCKY SOLANKI,Information Technology,1.14,0.0,0.57
+25M1052,PRASHANT SINGH,Mechanical,0.55,,0.55
+25V1050,RAJ DHAKAD,Civil,1.0,0.0,0.5
+25C1050,PRINCE CHOUDHARY,Computer Science,0.95,0.0,0.47
+25B1120,BARVE PRIYANKA SHIVAJI,Computer Science Business Studies,0.86,0.0,0.43
+25B1055,SAMARTH BAROTHIYA,Computer Science Business Studies,0.68,0.0,0.34
+25C1115,ANKIT,Computer Science,0.0,0.0,0.0
+25V1028,KANHA ALAWA,Civil,0.0,0.0,0.0

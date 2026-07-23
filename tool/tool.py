@@ -151,7 +151,7 @@ def rank_students():
     return all_students
 
 def write_csv(all_students):
-    with open(f"New_Ver_{batch}_Sem_{sem}_Result.csv", "w", newline="") as f:
+    with open(f"{batch}_Sem_{sem}_Result.csv", "w", newline="") as f:
         fieldnames = ["rank", "branch", "name", "roll", "cg", "verdict"]
         writer = csv.DictWriter(f, fieldnames=fieldnames)
 
