@@ -88,7 +88,7 @@ def generateURL():
     done = 0
     for branch in branch_list:
         branchName = branch_map.get(branch, 'Unknown Branch')
-        if branch in ['b', 'e', 'm', 'v']: 
+        if branch in ['e', 'm', 'v']: 
             for roll in range(sem*1000+1, sem*1000+90):
                 url = f"https://results.ietdavv.edu.in/DisplayStudentResult?rollno={batch}{branch}{roll}&typeOfStudent=Regular"
 
@@ -111,7 +111,7 @@ def generateURL_LE():
     done = 0
     for branch in branch_list:
         branchName = branch_map.get(branch, 'Unknown Branch')
-        if branch in ['b', 'e', 'm', 'v']: 
+        if branch in ['e', 'm', 'v']: 
             for roll in range(sem*1000+90, sem*1000+99):
                 url = f"https://results.ietdavv.edu.in/DisplayStudentResult?rollno={batch_LE}{branch}{roll}&typeOfStudent=Regular"
 
